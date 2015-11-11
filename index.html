@@ -26,7 +26,15 @@
     }).addTo(map);
   // load GeoJSON data
   $.getJSON("rodents.geojson", function(data){
-  	L.geoJson(data).addTo(map);
+  	var ratIcon = L.icon({
+  		iconURL: 'http://andywoodruff.com/maptime-leaflet/rat.png',
+  		iconSize: [60,50]
+  	});
+  	L.geoJson(data,{
+  	  pointToLayer: function(feature,latlng){
+  	  return L.marker(latlng,{icon: ratIcon});
+  		}
+  	}).addTo(map);
   });
 
   </script>
