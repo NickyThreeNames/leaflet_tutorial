@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=1020">
     
     
-    <title>Leaflet.markercluster/leaflet.markercluster.js at master · Leaflet/Leaflet.markercluster</title>
+    <title>leaflet-intro/leaflet.markercluster.js at gh-pages · maptimeBoston/leaflet-intro</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -19,12 +19,12 @@
     <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
     <meta property="fb:app_id" content="1401488693436528">
 
-      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="Leaflet/Leaflet.markercluster" name="twitter:title" /><meta content="Leaflet.markercluster - Marker Clustering plugin for Leaflet" name="twitter:description" /><meta content="https://avatars0.githubusercontent.com/u/2854298?v=3&amp;s=400" name="twitter:image:src" />
-      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars0.githubusercontent.com/u/2854298?v=3&amp;s=400" property="og:image" /><meta content="Leaflet/Leaflet.markercluster" property="og:title" /><meta content="https://github.com/Leaflet/Leaflet.markercluster" property="og:url" /><meta content="Leaflet.markercluster - Marker Clustering plugin for Leaflet" property="og:description" />
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="maptimeBoston/leaflet-intro" name="twitter:title" /><meta content="leaflet-intro - Leaflet tutorial for Maptime Boston" name="twitter:description" /><meta content="https://avatars1.githubusercontent.com/u/7799408?v=3&amp;s=400" name="twitter:image:src" />
+      <meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars1.githubusercontent.com/u/7799408?v=3&amp;s=400" property="og:image" /><meta content="maptimeBoston/leaflet-intro" property="og:title" /><meta content="https://github.com/maptimeBoston/leaflet-intro" property="og:url" /><meta content="leaflet-intro - Leaflet tutorial for Maptime Boston" property="og:description" />
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/NDc2MzE5MzowY2Q4OTliODM0ZmVjOTFjMGU4ZWVhZDcxODUyNjdlMjo2ZjgwMWZjZTk0ZmIyMDcwZmU4MmE5ZjczZmVlNmQ4YmRiMmRhMTdiZTc1YjBiOTFlNTk4NTYxZDc1YzM3NDE4--b83c14d6248c9b23df2911b3a15eda3415883f2d">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/NDc2MzE5MzowY2Q4OTliODM0ZmVjOTFjMGU4ZWVhZDcxODUyNjdlMjo3ZDM3YzNhN2U3YzU4ZTU0MGMzOTRjZTNhY2VhNzUzM2EzZDFmMTI2MjRiY2YyODI5MmFiZGEyZWI2ODAwNGJl--92649522a32a96c0f5fd7b9ea4fb18a9fd3402e5">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
 
@@ -35,7 +35,7 @@
     <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="442E78AA:5098:1866E766:5643CF3F" name="octolytics-dimension-request_id" /><meta content="4763193" name="octolytics-actor-id" /><meta content="NickyThreeNames" name="octolytics-actor-login" /><meta content="ba7e3f07ea698504f99e34940eba5236708ac4846c297e828fd7023ce95265fb" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="442E78AA:5093:2EF0A0E:5643D21B" name="octolytics-dimension-request_id" /><meta content="4763193" name="octolytics-actor-id" /><meta content="NickyThreeNames" name="octolytics-actor-login" /><meta content="ba7e3f07ea698504f99e34940eba5236708ac4846c297e828fd7023ce95265fb" name="octolytics-actor-hash" />
 
 <meta content="Rails, view, blob#show" data-pjax-transient="true" name="analytics-event" />
 
@@ -65,16 +65,16 @@
     <meta http-equiv="x-pjax-version" content="42881e20c386d37e5ab7e33b60dab1c1">
 
       
-  <meta name="description" content="Leaflet.markercluster - Marker Clustering plugin for Leaflet">
-  <meta name="go-import" content="github.com/Leaflet/Leaflet.markercluster git https://github.com/Leaflet/Leaflet.markercluster.git">
+  <meta name="description" content="leaflet-intro - Leaflet tutorial for Maptime Boston">
+  <meta name="go-import" content="github.com/maptimeBoston/leaflet-intro git https://github.com/maptimeBoston/leaflet-intro.git">
 
-  <meta content="2854298" name="octolytics-dimension-user_id" /><meta content="Leaflet" name="octolytics-dimension-user_login" /><meta content="4983184" name="octolytics-dimension-repository_id" /><meta content="Leaflet/Leaflet.markercluster" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="4983184" name="octolytics-dimension-repository_network_root_id" /><meta content="Leaflet/Leaflet.markercluster" name="octolytics-dimension-repository_network_root_nwo" />
-  <link href="https://github.com/Leaflet/Leaflet.markercluster/commits/master.atom" rel="alternate" title="Recent Commits to Leaflet.markercluster:master" type="application/atom+xml">
+  <meta content="7799408" name="octolytics-dimension-user_id" /><meta content="maptimeBoston" name="octolytics-dimension-user_login" /><meta content="24149671" name="octolytics-dimension-repository_id" /><meta content="maptimeBoston/leaflet-intro" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="true" name="octolytics-dimension-repository_is_fork" /><meta content="23668159" name="octolytics-dimension-repository_parent_id" /><meta content="awoodruff/leaflet-intro" name="octolytics-dimension-repository_parent_nwo" /><meta content="23668159" name="octolytics-dimension-repository_network_root_id" /><meta content="awoodruff/leaflet-intro" name="octolytics-dimension-repository_network_root_nwo" />
+  <link href="https://github.com/maptimeBoston/leaflet-intro/commits/gh-pages.atom" rel="alternate" title="Recent Commits to leaflet-intro:gh-pages" type="application/atom+xml">
 
   </head>
 
 
-  <body class="logged_in   env-production windows vis-public page-blob">
+  <body class="logged_in   env-production windows vis-public fork page-blob">
     <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
 
     
@@ -92,7 +92,7 @@
 
 
       <div class="site-search repo-scope js-site-search" role="search">
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/Leaflet/Leaflet.markercluster/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/search" class="js-site-search-form" data-global-search-url="/search" data-repo-search-url="/maptimeBoston/leaflet-intro/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
   <label class="js-chromeless-input-container form-control">
     <div class="scope-badge">This repository</div>
     <input type="text"
@@ -158,13 +158,6 @@
 
 
 
-  <div class="dropdown-divider"></div>
-  <div class="dropdown-header">
-    <span title="Leaflet/Leaflet.markercluster">This repository</span>
-  </div>
-    <a class="dropdown-item" href="/Leaflet/Leaflet.markercluster/issues/new" data-ga-click="Header, create new issue">
-      New issue
-    </a>
 
       </ul>
     </div>
@@ -210,7 +203,7 @@
             Settings
           </a>
 
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8febUs6UIKXBMUyGJz5QuK3t37l4MHQZ0qAjhZ/4orEEwCXPWCf+Eab6mguZkMXwyHHKbcKx/YJKugYVs7zA1w==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="co5WrKioRtg/eB/Kn6i83W7dJ+bdxfqNOMRZU6JpehZdPz7kQt7hp3NbspfGtGKAYUkijtaSkD5StA4vtwYLfg==" /></div>
             <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
               Sign out
             </button>
@@ -248,10 +241,10 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="suCnfdEEhbAm/vXHPNgOhspNVWUQZMNl/uQXHBCSYIkcKwc2iRnTFgrSUuQiEZ106z4rVHrZthO/Nqj8uQjxBg==" /></div>      <input id="repository_id" name="repository_id" type="hidden" value="4983184" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="nQYPPlvbx5WuUUpPLfF03OXOia4nuAULjvcojJzRsXhVuFEbTxaRkpccar0hlrPMrw6n/sCiV4+L6whOvJApcw==" /></div>      <input id="repository_id" name="repository_id" type="hidden" value="24149671" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/Leaflet/Leaflet.markercluster/subscription"
+          <a href="/maptimeBoston/leaflet-intro/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target" role="button" tabindex="0" aria-haspopup="true"
             data-ga-click="Repository, click Watch settings, action:blob#show">
             <span class="js-select-button">
@@ -259,8 +252,8 @@
               Watch
             </span>
           </a>
-          <a class="social-count js-social-count" href="/Leaflet/Leaflet.markercluster/watchers">
-            108
+          <a class="social-count js-social-count" href="/maptimeBoston/leaflet-intro/watchers">
+            3
           </a>
 
         <div class="select-menu-modal-holder">
@@ -323,61 +316,64 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CDSxGG8nwxqJ1LOr+1FcBB4puWK14D6Ok3ML2FjXPaF08vfMynHmp5Wrb/9kU/iXmOqICdBv/52ch0BXKbtm/A==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/unstar" class="js-toggler-form starred js-unstar-button" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+EvAFlw7u8qQ8zQzbYaxGbivWXzjswBrlaNqP1ClD2E/N2ADoPq7RJqK4p6W2fRSf3RoyeJ2t6jp4Skxv0siDQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar Leaflet/Leaflet.markercluster"
+        aria-label="Unstar this repository" title="Unstar maptimeBoston/leaflet-intro"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <span class="octicon octicon-star"></span>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/Leaflet/Leaflet.markercluster/stargazers">
-          1,277
+        <a class="social-count js-social-count" href="/maptimeBoston/leaflet-intro/stargazers">
+          3
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ECzZJbyjU8jlxFWHS9y+SY6Ji3yMQk77cnLE+UW1uSTTLEU0pUsRzJ7s9AWqmkmqNk3+3EP89dWOkp6+DYfg4w==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/star" class="js-toggler-form unstarred js-star-button" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="nlwpCfR7qeeVe4zG+kDVn3AXkZ/vRfWd4yNg5uK76ymp0d9e6oEU++GR62n/XLX9kVz5IUMILiWiClrIiVG+HA==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star Leaflet/Leaflet.markercluster"
+        aria-label="Star this repository" title="Star maptimeBoston/leaflet-intro"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <span class="octicon octicon-star"></span>
         Star
       </button>
-        <a class="social-count js-social-count" href="/Leaflet/Leaflet.markercluster/stargazers">
-          1,277
+        <a class="social-count js-social-count" href="/maptimeBoston/leaflet-intro/stargazers">
+          3
         </a>
 </form>  </div>
 
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/fork" class="btn-with-count" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6oov0J9fX/6xxkAjEOU6+gRVCYbg6os51JcqS2HnAjN4PPWiyfz7IY9+2SBdI4RFPLf8osW7uvqcoubXRc70TQ==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/fork" class="btn-with-count" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="uDOsfIMtuheRm6moDsyk97ZUoNdm5LwAeseF3jGey3gxpLJLqCHzDML1Gr3isDA0wbNj4mg+AosUQ565BmNe5w==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
                 data-ga-click="Repository, show fork modal, action:blob#show; text:Fork"
-                title="Fork your own copy of Leaflet/Leaflet.markercluster to your account"
-                aria-label="Fork your own copy of Leaflet/Leaflet.markercluster to your account">
+                title="Fork your own copy of maptimeBoston/leaflet-intro to your account"
+                aria-label="Fork your own copy of maptimeBoston/leaflet-intro to your account">
               <span class="octicon octicon-repo-forked"></span>
               Fork
             </button>
 </form>
-    <a href="/Leaflet/Leaflet.markercluster/network" class="social-count">
-      428
+    <a href="/maptimeBoston/leaflet-intro/network" class="social-count">
+      3
     </a>
   </li>
 </ul>
 
           <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public ">
-  <span class="mega-octicon octicon-repo"></span>
-  <span class="author"><a href="/Leaflet" class="url fn" itemprop="url" rel="author"><span itemprop="title">Leaflet</span></a></span><!--
+  <span class="mega-octicon octicon-repo-forked"></span>
+  <span class="author"><a href="/maptimeBoston" class="url fn" itemprop="url" rel="author"><span itemprop="title">maptimeBoston</span></a></span><!--
 --><span class="path-divider">/</span><!--
---><strong><a href="/Leaflet/Leaflet.markercluster" data-pjax="#js-repo-pjax-container">Leaflet.markercluster</a></strong>
+--><strong><a href="/maptimeBoston/leaflet-intro" data-pjax="#js-repo-pjax-container">leaflet-intro</a></strong>
 
   <span class="page-context-loader">
     <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
   </span>
 
+    <span class="fork-flag">
+      <span class="text">forked from <a href="/awoodruff/leaflet-intro">awoodruff/leaflet-intro</a></span>
+    </span>
 </h1>
 
         </div>
@@ -391,40 +387,39 @@
 <nav class="sunken-menu repo-nav js-repo-nav js-sidenav-container-pjax js-octicon-loaders"
      role="navigation"
      data-pjax="#js-repo-pjax-container"
-     data-issue-count-url="/Leaflet/Leaflet.markercluster/issues/counts">
+     data-issue-count-url="/maptimeBoston/leaflet-intro/issues/counts">
   <ul class="sunken-menu-group">
     <li class="tooltipped tooltipped-w" aria-label="Code">
-      <a href="/Leaflet/Leaflet.markercluster" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Leaflet/Leaflet.markercluster">
+      <a href="/maptimeBoston/leaflet-intro" aria-label="Code" aria-selected="true" class="js-selected-navigation-item selected sunken-menu-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /maptimeBoston/leaflet-intro">
         <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
-      <li class="tooltipped tooltipped-w" aria-label="Issues">
-        <a href="/Leaflet/Leaflet.markercluster/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /Leaflet/Leaflet.markercluster/issues">
-          <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
-          <span class="js-issue-replace-counter"></span>
-          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
-</a>      </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Pull requests">
-      <a href="/Leaflet/Leaflet.markercluster/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /Leaflet/Leaflet.markercluster/pulls">
+      <a href="/maptimeBoston/leaflet-intro/pulls" aria-label="Pull requests" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g p" data-selected-links="repo_pulls /maptimeBoston/leaflet-intro/pulls">
           <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull requests</span>
           <span class="js-pull-replace-counter"></span>
           <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
+      <li class="tooltipped tooltipped-w" aria-label="Wiki">
+        <a href="/maptimeBoston/leaflet-intro/wiki" aria-label="Wiki" class="js-selected-navigation-item sunken-menu-item" data-hotkey="g w" data-selected-links="repo_wiki /maptimeBoston/leaflet-intro/wiki">
+          <span class="octicon octicon-book"></span> <span class="full-word">Wiki</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
   </ul>
   <div class="sunken-menu-separator"></div>
   <ul class="sunken-menu-group">
 
     <li class="tooltipped tooltipped-w" aria-label="Pulse">
-      <a href="/Leaflet/Leaflet.markercluster/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /Leaflet/Leaflet.markercluster/pulse">
+      <a href="/maptimeBoston/leaflet-intro/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-selected-links="pulse /maptimeBoston/leaflet-intro/pulse">
         <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
 
     <li class="tooltipped tooltipped-w" aria-label="Graphs">
-      <a href="/Leaflet/Leaflet.markercluster/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /Leaflet/Leaflet.markercluster/graphs">
+      <a href="/maptimeBoston/leaflet-intro/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-selected-links="repo_graphs repo_contributors /maptimeBoston/leaflet-intro/graphs">
         <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
         <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
 </a>    </li>
@@ -440,7 +435,7 @@
   <h3 class="text-small text-muted"><span class="text-emphasized">HTTPS</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/Leaflet/Leaflet.markercluster.git" readonly="readonly" aria-label="HTTPS clone URL">
+           value="https://github.com/maptimeBoston/leaflet-intro.git" readonly="readonly" aria-label="HTTPS clone URL">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -453,7 +448,7 @@
   <h3 class="text-small text-muted"><span class="text-emphasized">SSH</span> clone URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
-           value="git@github.com:Leaflet/Leaflet.markercluster.git" readonly="readonly" aria-label="SSH clone URL">
+           value="git@github.com:maptimeBoston/leaflet-intro.git" readonly="readonly" aria-label="SSH clone URL">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -466,7 +461,7 @@
   <h3 class="text-small text-muted"><span class="text-emphasized">Subversion</span> checkout URL</h3>
   <div class="input-group js-zeroclipboard-container">
     <input type="text" class="input-mini text-small text-muted input-monospace js-url-field js-zeroclipboard-target"
-           value="https://github.com/Leaflet/Leaflet.markercluster" readonly="readonly" aria-label="Subversion checkout URL">
+           value="https://github.com/maptimeBoston/leaflet-intro" readonly="readonly" aria-label="Subversion checkout URL">
     <span class="input-group-button">
       <button aria-label="Copy to clipboard" class="js-zeroclipboard btn btn-sm zeroclipboard-button tooltipped tooltipped-s" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
     </span>
@@ -476,20 +471,20 @@
 
 
 <div class="clone-options text-small text-muted">You can clone with
-  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ARx9/3/6MDYJYItgVVYu6crylZmjCHR9LsPh/8yUL3fxs0AmbPb8hIL6Sm3y1s/fQDaRkdjUK89BjdhFZc4zyg==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="I6ki3jprrqXUDDxsX1fbS7TG8o6qvf0qXSTnuRTJZg+cW300QuGyh5ge+ik/32mTrdOPyOqfGc4NNvIpUg5qCA==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="LjXnaaSuy/rXqNKobgFCMoS7p1/YSYU1LoKUNzZGLOTSXnZXs84H4X+QOezedbuo2fp/h8EQKVkfkCRd3evHTA==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
+  <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="375FvdhT3Fc/Uvv100o/Kh2jrIgZhfPLOouEzv8R6CWqS2RxSPhyTc9tXg3tYpRSsxqW+uMsvUfhn6W0XKDy5w==" /></div><button class="btn-link js-clone-selector" data-protocol="http" type="submit">HTTPS</button></form>, <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=ssh&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="cutqpSitYpXPSc8Y9y0e7Of+AcLr5Jjy5jJyq1ph2yqFCD7EJ8dTTF5k+u+e5Y3fEwj+rFe4lSp/jA8jPQ8fjg==" /></div><button class="btn-link js-clone-selector" data-protocol="ssh" type="submit">SSH</button></form>, or <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone" class="inline-form js-clone-selector-form is-enabled" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="io/0BdPTnRVnF/5DMcAG6w3Tzdjwqip2kHv7Agcj1rlajumxddmLgJwTU6pLQ/phBRB7hfvlL4IMV+Zcrg0UUg==" /></div><button class="btn-link js-clone-selector" data-protocol="subversion" type="submit">Subversion</button></form>.
   <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
     <span class="octicon octicon-question"></span>
   </a>
 </div>
-  <a href="github-windows://openRepo/https://github.com/Leaflet/Leaflet.markercluster" class="btn btn-sm sidebar-button" title="Save Leaflet/Leaflet.markercluster to your computer and use it in GitHub Desktop." aria-label="Save Leaflet/Leaflet.markercluster to your computer and use it in GitHub Desktop.">
+  <a href="github-windows://openRepo/https://github.com/maptimeBoston/leaflet-intro" class="btn btn-sm sidebar-button" title="Save maptimeBoston/leaflet-intro to your computer and use it in GitHub Desktop." aria-label="Save maptimeBoston/leaflet-intro to your computer and use it in GitHub Desktop.">
     <span class="octicon octicon-desktop-download"></span>
     Clone in Desktop
   </a>
 
-              <a href="/Leaflet/Leaflet.markercluster/archive/master.zip"
+              <a href="/maptimeBoston/leaflet-intro/archive/gh-pages.zip"
                  class="btn btn-sm sidebar-button"
-                 aria-label="Download the contents of Leaflet/Leaflet.markercluster as a zip file"
-                 title="Download the contents of Leaflet/Leaflet.markercluster as a zip file"
+                 aria-label="Download the contents of maptimeBoston/leaflet-intro as a zip file"
+                 title="Download the contents of maptimeBoston/leaflet-intro as a zip file"
                  rel="nofollow">
                 <span class="octicon octicon-cloud-download"></span>
                 Download ZIP
@@ -500,18 +495,18 @@
 
           
 
-<a href="/Leaflet/Leaflet.markercluster/blob/050145c290bd2bbc6555b5819b329c6d0fe71ad3/dist/leaflet.markercluster.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/maptimeBoston/leaflet-intro/blob/467b63327b037aa5d320044cb6cf5f78afb852c1/leaflet.markercluster.js" class="hidden js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:c2d8cbc9daaa122277bc521a7b46ce30 -->
+<!-- blob contrib key: blob_contributors:v21:3759910e77b5c871a757e0e10a9a0fac -->
 
   <div class="file-navigation js-zeroclipboard-container">
     
 <div class="select-menu js-menu-container js-select-menu left">
   <button class="btn btn-sm select-menu-button js-menu-target css-truncate" data-hotkey="w"
-    title="master"
+    title="gh-pages"
     type="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
     <i>Branch:</i>
-    <span class="js-select-button css-truncate-target">master</span>
+    <span class="js-select-button css-truncate-target">gh-pages</span>
   </button>
 
   <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
@@ -543,18 +538,8 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Leaflet/Leaflet.markercluster/blob/better-loading/dist/leaflet.markercluster.js"
-               data-name="better-loading"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <span class="select-menu-item-text css-truncate-target" title="better-loading">
-                better-loading
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Leaflet/Leaflet.markercluster/blob/gh-pages/dist/leaflet.markercluster.js"
+            <a class="select-menu-item js-navigation-item js-navigation-open selected"
+               href="/maptimeBoston/leaflet-intro/blob/gh-pages/leaflet.markercluster.js"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -564,43 +549,13 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Leaflet/Leaflet.markercluster/blob/leaflet-master-merge/dist/leaflet.markercluster.js"
-               data-name="leaflet-master-merge"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <span class="select-menu-item-text css-truncate-target" title="leaflet-master-merge">
-                leaflet-master-merge
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Leaflet/Leaflet.markercluster/blob/leaflet-master/dist/leaflet.markercluster.js"
-               data-name="leaflet-master"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <span class="select-menu-item-text css-truncate-target" title="leaflet-master">
-                leaflet-master
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/Leaflet/Leaflet.markercluster/blob/master/dist/leaflet.markercluster.js"
+               href="/maptimeBoston/leaflet-intro/blob/master/leaflet.markercluster.js"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
               <span class="select-menu-item-icon octicon octicon-check"></span>
               <span class="select-menu-item-text css-truncate-target" title="master">
                 master
-              </span>
-            </a>
-            <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/Leaflet/Leaflet.markercluster/blob/prototype-animate-during-zoom/dist/leaflet.markercluster.js"
-               data-name="prototype-animate-during-zoom"
-               data-skip-pjax="true"
-               rel="nofollow">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <span class="select-menu-item-text css-truncate-target" title="prototype-animate-during-zoom">
-                prototype-animate-during-zoom
               </span>
             </a>
         </div>
@@ -612,60 +567,6 @@
         <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
 
 
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/v0.4.0/dist/leaflet.markercluster.js"
-                 data-name="v0.4.0"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="v0.4.0">v0.4.0</a>
-            </div>
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/v0.4.0-hotfix.1/dist/leaflet.markercluster.js"
-                 data-name="v0.4.0-hotfix.1"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="v0.4.0-hotfix.1">v0.4.0-hotfix.1</a>
-            </div>
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/0.4/dist/leaflet.markercluster.js"
-                 data-name="0.4"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="0.4">0.4</a>
-            </div>
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/0.3/dist/leaflet.markercluster.js"
-                 data-name="0.3"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="0.3">0.3</a>
-            </div>
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/0.2/dist/leaflet.markercluster.js"
-                 data-name="0.2"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="0.2">0.2</a>
-            </div>
-            <div class="select-menu-item js-navigation-item ">
-              <span class="select-menu-item-icon octicon octicon-check"></span>
-              <a href="/Leaflet/Leaflet.markercluster/tree/0.1/dist/leaflet.markercluster.js"
-                 data-name="0.1"
-                 data-skip-pjax="true"
-                 rel="nofollow"
-                 class="js-navigation-open select-menu-item-text css-truncate-target"
-                 title="0.1">0.1</a>
-            </div>
         </div>
 
         <div class="select-menu-no-results">Nothing to show</div>
@@ -676,7 +577,7 @@
 </div>
 
     <div class="btn-group right">
-      <a href="/Leaflet/Leaflet.markercluster/find/master"
+      <a href="/maptimeBoston/leaflet-intro/find/gh-pages"
             class="js-show-file-finder btn btn-sm empty-icon tooltipped tooltipped-nw"
             data-pjax
             data-hotkey="t"
@@ -687,66 +588,43 @@
     </div>
 
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">Leaflet.markercluster</span></a></span></span><span class="separator">/</span><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Leaflet/Leaflet.markercluster/tree/master/dist" class="" data-branch="master" data-pjax="true" itemscope="url"><span itemprop="title">dist</span></a></span><span class="separator">/</span><strong class="final-path">leaflet.markercluster.js</strong>
+      <span class="repo-root js-repo-root"><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/maptimeBoston/leaflet-intro" class="" data-branch="gh-pages" data-pjax="true" itemscope="url"><span itemprop="title">leaflet-intro</span></a></span></span><span class="separator">/</span><strong class="final-path">leaflet.markercluster.js</strong>
     </div>
   </div>
 
-
-  <div class="commit-tease">
-      <span class="right">
-        <a class="commit-tease-sha" href="/Leaflet/Leaflet.markercluster/commit/c0b5778dbcb08578ca8b51c715cf64ab1da0622b" data-pjax>
-          c0b5778
-        </a>
-        <time datetime="2014-10-27T20:26:13Z" is="relative-time">Oct 28, 2014</time>
-      </span>
-      <div>
-        <img alt="@danzel" class="avatar" height="20" src="https://avatars1.githubusercontent.com/u/393086?v=3&amp;s=40" width="20" />
-        <a href="/danzel" class="user-mention" rel="contributor">danzel</a>
-          <a href="/Leaflet/Leaflet.markercluster/commit/c0b5778dbcb08578ca8b51c715cf64ab1da0622b" class="message" data-pjax="true" title="Update build">Update build</a>
-      </div>
-
-    <div class="commit-tease-contributors">
-      <a class="muted-link contributors-toggle" href="#blob_contributors_box" rel="facebox">
-        <strong>1</strong>
-         contributor
-      </a>
-      
-    </div>
-
-    <div id="blob_contributors_box" style="display:none">
-      <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
-      <ul class="facebox-user-list" data-facebox-id="facebox-description">
-          <li class="facebox-user-list-item">
-            <img alt="@danzel" height="24" src="https://avatars3.githubusercontent.com/u/393086?v=3&amp;s=48" width="24" />
-            <a href="/danzel">danzel</a>
-          </li>
-      </ul>
-    </div>
+<include-fragment class="commit-tease" src="/maptimeBoston/leaflet-intro/contributors/gh-pages/leaflet.markercluster.js">
+  <div>
+    Fetching contributors&hellip;
   </div>
 
+  <div class="commit-tease-contributors">
+    <img alt="" class="loader-loading left" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" />
+    <span class="loader-error">Cannot retrieve contributors at this time</span>
+  </div>
+</include-fragment>
 <div class="file">
   <div class="file-header">
   <div class="file-actions">
 
     <div class="btn-group">
-      <a href="/Leaflet/Leaflet.markercluster/raw/master/dist/leaflet.markercluster.js" class="btn btn-sm " id="raw-url">Raw</a>
-        <a href="/Leaflet/Leaflet.markercluster/blame/master/dist/leaflet.markercluster.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
-      <a href="/Leaflet/Leaflet.markercluster/commits/master/dist/leaflet.markercluster.js" class="btn btn-sm " rel="nofollow">History</a>
+      <a href="/maptimeBoston/leaflet-intro/raw/gh-pages/leaflet.markercluster.js" class="btn btn-sm " id="raw-url">Raw</a>
+        <a href="/maptimeBoston/leaflet-intro/blame/gh-pages/leaflet.markercluster.js" class="btn btn-sm js-update-url-with-hash">Blame</a>
+      <a href="/maptimeBoston/leaflet-intro/commits/gh-pages/leaflet.markercluster.js" class="btn btn-sm " rel="nofollow">History</a>
     </div>
 
         <a class="octicon-btn tooltipped tooltipped-nw"
-           href="github-windows://openRepo/https://github.com/Leaflet/Leaflet.markercluster?branch=master&amp;filepath=dist%2Fleaflet.markercluster.js"
+           href="github-windows://openRepo/https://github.com/maptimeBoston/leaflet-intro?branch=gh-pages&amp;filepath=leaflet.markercluster.js"
            aria-label="Open this file in GitHub Desktop"
            data-ga-click="Repository, open with desktop, type:windows">
             <span class="octicon octicon-device-desktop"></span>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/edit/master/dist/leaflet.markercluster.js" class="inline-form js-update-url-with-hash" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="ixS+xJ6eyV71qQQzGOcNK673dGSuVe6k7DmNSgVCudrbXx9TpC4sF9whv3/CjPEuukIxfrpLeYwmvqhIrR6uPA==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/edit/gh-pages/leaflet.markercluster.js" class="inline-form js-update-url-with-hash" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="TVbEUPb4EMQxaTRYLKUlIyPfDBrXwC2zrkfegjIPGVWQQyDKd1kiZccoYPrLd06YjytyjEaCe1JwF1+jidlGRw==" /></div>
           <button class="octicon-btn tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <span class="octicon octicon-pencil"></span>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/Leaflet/Leaflet.markercluster/delete/master/dist/leaflet.markercluster.js" class="inline-form" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vCld1SIFF+eq1YtEqpZpSdOMSFVEDHljTZe+mZZluPxm+b73HzFAjGcTSxh07fx3i7RNF+vlNGSXmKoh9QXh2w==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/maptimeBoston/leaflet-intro/delete/gh-pages/leaflet.markercluster.js" class="inline-form" data-form-nonce="1fa19296779c51cb66a5441184d0c1ccdadd3c75" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iaz2V68MlCg1sRq5Ck2JoDtmZ9AOw+tMLCYZFWpFx4N0jWxR2x/LCPSVSru7udeJEJCRXf0CKFGOoeiW4bBjyA==" /></div>
           <button class="octicon-btn octicon-btn-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <span class="octicon octicon-trashcan"></span>
@@ -786,7 +664,7 @@
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">!function(t,e){L.MarkerClusterGroup=L.FeatureGroup.extend({options:{maxClusterRadius:80,iconCreateFunction:null,spiderfyOnMaxZoom:!0,showCoverageOnHover:!0,zoomToBoundsOnClick:!0,singleMarkerMode:!1,disableClusteringAtZoom:null,removeOutsideVisibleBounds:!0,animateAddingMarkers:!1,spiderfyDistanceMultiplier:1,chunkedLoading:!1,chunkInterval:200,chunkDelay:50,chunkProgress:null,polygonOptions:{}},initialize:function(t){L.Util.setOptions(this,t),this.options.iconCreateFunction||(this.options.iconCreateFunction=this._defaultIconCreateFunction),this._featureGroup=L.featureGroup(),this._featureGroup.on(L.FeatureGroup.EVENTS,this._propagateEvent,this),this._nonPointGroup=L.featureGroup(),this._nonPointGroup.on(L.FeatureGroup.EVENTS,this._propagateEvent,this),this._inZoomAnimation=0,this._needsClustering=[],this._needsRemoving=[],this._currentShownBounds=null,this._queue=[]},addLayer:function(t){if(t instanceof L.LayerGroup){var e=[];for(var i in t._layers)e.push(t._layers[i]);return this.addLayers(e)}if(!t.getLatLng)return this._nonPointGroup.addLayer(t),this;if(!this._map)return this._needsClustering.push(t),this;if(this.hasLayer(t))return this;this._unspiderfy&amp;&amp;this._unspiderfy(),this._addLayer(t,this._maxZoom);var n=t,s=this._map.getZoom();if(t.__parent)for(;n.__parent._zoom&gt;=s;)n=n.__parent;return this._currentShownBounds.contains(n.getLatLng())&amp;&amp;(this.options.animateAddingMarkers?this._animationAddLayer(t,n):this._animationAddLayerNonAnimated(t,n)),this},removeLayer:function(t){if(t instanceof L.LayerGroup){var e=[];for(var i in t._layers)e.push(t._layers[i]);return this.removeLayers(e)}return t.getLatLng?this._map?t.__parent?(this._unspiderfy&amp;&amp;(this._unspiderfy(),this._unspiderfyLayer(t)),this._removeLayer(t,!0),this._featureGroup.hasLayer(t)&amp;&amp;(this._featureGroup.removeLayer(t),t.setOpacity&amp;&amp;t.setOpacity(1)),this):this:(!this._arraySplice(this._needsClustering,t)&amp;&amp;this.hasLayer(t)&amp;&amp;this._needsRemoving.push(t),this):(this._nonPointGroup.removeLayer(t),this)},addLayers:function(t){var e,i,n,s,r=this._featureGroup,o=this._nonPointGroup,a=this.options.chunkedLoading,h=this.options.chunkInterval,_=this.options.chunkProgress;if(this._map){var u=0,l=(new Date).getTime(),d=L.bind(function(){for(var e=(new Date).getTime();u&lt;t.length;u++){if(a&amp;&amp;0===u%200){var i=(new Date).getTime()-e;if(i&gt;h)break}if(s=t[u],s.getLatLng){if(!this.hasLayer(s)&amp;&amp;(this._addLayer(s,this._maxZoom),s.__parent&amp;&amp;2===s.__parent.getChildCount())){var n=s.__parent.getAllChildMarkers(),p=n[0]===s?n[1]:n[0];r.removeLayer(p)}}else o.addLayer(s)}_&amp;&amp;_(u,t.length,(new Date).getTime()-l),u===t.length?(this._featureGroup.eachLayer(function(t){t instanceof L.MarkerCluster&amp;&amp;t._iconNeedsUpdate&amp;&amp;t._updateIcon()}),this._topClusterLevel._recursivelyAddChildrenToMap(null,this._zoom,this._currentShownBounds)):setTimeout(d,this.options.chunkDelay)},this);d()}else{for(e=[],i=0,n=t.length;n&gt;i;i++)s=t[i],s.getLatLng?this.hasLayer(s)||e.push(s):o.addLayer(s);this._needsClustering=this._needsClustering.concat(e)}return this},removeLayers:function(t){var e,i,n,s=this._featureGroup,r=this._nonPointGroup;if(!this._map){for(e=0,i=t.length;i&gt;e;e++)n=t[e],this._arraySplice(this._needsClustering,n),r.removeLayer(n);return this}for(e=0,i=t.length;i&gt;e;e++)n=t[e],n.__parent?(this._removeLayer(n,!0,!0),s.hasLayer(n)&amp;&amp;(s.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))):r.removeLayer(n);return this._topClusterLevel._recursivelyAddChildrenToMap(null,this._zoom,this._currentShownBounds),s.eachLayer(function(t){t instanceof L.MarkerCluster&amp;&amp;t._updateIcon()}),this},clearLayers:function(){return this._map||(this._needsClustering=[],delete this._gridClusters,delete this._gridUnclustered),this._noanimationUnspiderfy&amp;&amp;this._noanimationUnspiderfy(),this._featureGroup.clearLayers(),this._nonPointGroup.clearLayers(),this.eachLayer(function(t){delete t.__parent}),this._map&amp;&amp;this._generateInitialClusters(),this},getBounds:function(){var t=new L.LatLngBounds;this._topClusterLevel&amp;&amp;t.extend(this._topClusterLevel._bounds);for(var e=this._needsClustering.length-1;e&gt;=0;e--)t.extend(this._needsClustering[e].getLatLng());return t.extend(this._nonPointGroup.getBounds()),t},eachLayer:function(t,e){var i,n=this._needsClustering.slice();for(this._topClusterLevel&amp;&amp;this._topClusterLevel.getAllChildMarkers(n),i=n.length-1;i&gt;=0;i--)t.call(e,n[i]);this._nonPointGroup.eachLayer(t,e)},getLayers:function(){var t=[];return this.eachLayer(function(e){t.push(e)}),t},getLayer:function(t){var e=null;return this.eachLayer(function(i){L.stamp(i)===t&amp;&amp;(e=i)}),e},hasLayer:function(t){if(!t)return!1;var e,i=this._needsClustering;for(e=i.length-1;e&gt;=0;e--)if(i[e]===t)return!0;for(i=this._needsRemoving,e=i.length-1;e&gt;=0;e--)if(i[e]===t)return!1;return!(!t.__parent||t.__parent._group!==this)||this._nonPointGroup.hasLayer(t)},zoomToShowLayer:function(t,e){var i=function(){if((t._icon||t.__parent._icon)&amp;&amp;!this._inZoomAnimation)if(this._map.off(&quot;moveend&quot;,i,this),this.off(&quot;animationend&quot;,i,this),t._icon)e();else if(t.__parent._icon){var n=function(){this.off(&quot;spiderfied&quot;,n,this),e()};this.on(&quot;spiderfied&quot;,n,this),t.__parent.spiderfy()}};if(t._icon&amp;&amp;this._map.getBounds().contains(t.getLatLng()))e();else if(t.__parent._zoom&lt;this._map.getZoom())this._map.on(&quot;moveend&quot;,i,this),this._map.panTo(t.getLatLng());else{var n=function(){this._map.off(&quot;movestart&quot;,n,this),n=null};this._map.on(&quot;movestart&quot;,n,this),this._map.on(&quot;moveend&quot;,i,this),this.on(&quot;animationend&quot;,i,this),t.__parent.zoomToBounds(),n&amp;&amp;i.call(this)}},onAdd:function(t){this._map=t;var e,i,n;if(!isFinite(this._map.getMaxZoom()))throw&quot;Map has no maxZoom specified&quot;;for(this._featureGroup.onAdd(t),this._nonPointGroup.onAdd(t),this._gridClusters||this._generateInitialClusters(),e=0,i=this._needsRemoving.length;i&gt;e;e++)n=this._needsRemoving[e],this._removeLayer(n,!0);this._needsRemoving=[],this._zoom=this._map.getZoom(),this._currentShownBounds=this._getExpandedVisibleBounds(),this._map.on(&quot;zoomend&quot;,this._zoomEnd,this),this._map.on(&quot;moveend&quot;,this._moveEnd,this),this._spiderfierOnAdd&amp;&amp;this._spiderfierOnAdd(),this._bindEvents(),i=this._needsClustering,this._needsClustering=[],this.addLayers(i)},onRemove:function(t){t.off(&quot;zoomend&quot;,this._zoomEnd,this),t.off(&quot;moveend&quot;,this._moveEnd,this),this._unbindEvents(),this._map._mapPane.className=this._map._mapPane.className.replace(&quot; leaflet-cluster-anim&quot;,&quot;&quot;),this._spiderfierOnRemove&amp;&amp;this._spiderfierOnRemove(),this._hideCoverage(),this._featureGroup.onRemove(t),this._nonPointGroup.onRemove(t),this._featureGroup.clearLayers(),this._map=null},getVisibleParent:function(t){for(var e=t;e&amp;&amp;!e._icon;)e=e.__parent;return e||null},_arraySplice:function(t,e){for(var i=t.length-1;i&gt;=0;i--)if(t[i]===e)return t.splice(i,1),!0},_removeLayer:function(t,e,i){var n=this._gridClusters,s=this._gridUnclustered,r=this._featureGroup,o=this._map;if(e)for(var a=this._maxZoom;a&gt;=0&amp;&amp;s[a].removeObject(t,o.project(t.getLatLng(),a));a--);var h,_=t.__parent,u=_._markers;for(this._arraySplice(u,t);_&amp;&amp;(_._childCount--,!(_._zoom&lt;0));)e&amp;&amp;_._childCount&lt;=1?(h=_._markers[0]===t?_._markers[1]:_._markers[0],n[_._zoom].removeObject(_,o.project(_._cLatLng,_._zoom)),s[_._zoom].addObject(h,o.project(h.getLatLng(),_._zoom)),this._arraySplice(_.__parent._childClusters,_),_.__parent._markers.push(h),h.__parent=_.__parent,_._icon&amp;&amp;(r.removeLayer(_),i||r.addLayer(h))):(_._recalculateBounds(),i&amp;&amp;_._icon||_._updateIcon()),_=_.__parent;delete t.__parent},_isOrIsParent:function(t,e){for(;e;){if(t===e)return!0;e=e.parentNode}return!1},_propagateEvent:function(t){if(t.layer instanceof L.MarkerCluster){if(t.originalEvent&amp;&amp;this._isOrIsParent(t.layer._icon,t.originalEvent.relatedTarget))return;t.type=&quot;cluster&quot;+t.type}this.fire(t.type,t)},_defaultIconCreateFunction:function(t){var e=t.getChildCount(),i=&quot; marker-cluster-&quot;;return i+=10&gt;e?&quot;small&quot;:100&gt;e?&quot;medium&quot;:&quot;large&quot;,new L.DivIcon({html:&quot;&lt;div&gt;&lt;span&gt;&quot;+e+&quot;&lt;/span&gt;&lt;/div&gt;&quot;,className:&quot;marker-cluster&quot;+i,iconSize:new L.Point(40,40)})},_bindEvents:function(){var t=this._map,e=this.options.spiderfyOnMaxZoom,i=this.options.showCoverageOnHover,n=this.options.zoomToBoundsOnClick;(e||n)&amp;&amp;this.on(&quot;clusterclick&quot;,this._zoomOrSpiderfy,this),i&amp;&amp;(this.on(&quot;clustermouseover&quot;,this._showCoverage,this),this.on(&quot;clustermouseout&quot;,this._hideCoverage,this),t.on(&quot;zoomend&quot;,this._hideCoverage,this))},_zoomOrSpiderfy:function(t){var e=this._map;e.getMaxZoom()===e.getZoom()?this.options.spiderfyOnMaxZoom&amp;&amp;t.layer.spiderfy():this.options.zoomToBoundsOnClick&amp;&amp;t.layer.zoomToBounds(),t.originalEvent&amp;&amp;13===t.originalEvent.keyCode&amp;&amp;e._container.focus()},_showCoverage:function(t){var e=this._map;this._inZoomAnimation||(this._shownPolygon&amp;&amp;e.removeLayer(this._shownPolygon),t.layer.getChildCount()&gt;2&amp;&amp;t.layer!==this._spiderfied&amp;&amp;(this._shownPolygon=new L.Polygon(t.layer.getConvexHull(),this.options.polygonOptions),e.addLayer(this._shownPolygon)))},_hideCoverage:function(){this._shownPolygon&amp;&amp;(this._map.removeLayer(this._shownPolygon),this._shownPolygon=null)},_unbindEvents:function(){var t=this.options.spiderfyOnMaxZoom,e=this.options.showCoverageOnHover,i=this.options.zoomToBoundsOnClick,n=this._map;(t||i)&amp;&amp;this.off(&quot;clusterclick&quot;,this._zoomOrSpiderfy,this),e&amp;&amp;(this.off(&quot;clustermouseover&quot;,this._showCoverage,this),this.off(&quot;clustermouseout&quot;,this._hideCoverage,this),n.off(&quot;zoomend&quot;,this._hideCoverage,this))},_zoomEnd:function(){this._map&amp;&amp;(this._mergeSplitClusters(),this._zoom=this._map._zoom,this._currentShownBounds=this._getExpandedVisibleBounds())},_moveEnd:function(){if(!this._inZoomAnimation){var t=this._getExpandedVisibleBounds();this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,this._zoom,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,this._map._zoom,t),this._currentShownBounds=t}},_generateInitialClusters:function(){var t=this._map.getMaxZoom(),e=this.options.maxClusterRadius,i=e;&quot;function&quot;!=typeof e&amp;&amp;(i=function(){return e}),this.options.disableClusteringAtZoom&amp;&amp;(t=this.options.disableClusteringAtZoom-1),this._maxZoom=t,this._gridClusters={},this._gridUnclustered={};for(var n=t;n&gt;=0;n--)this._gridClusters[n]=new L.DistanceGrid(i(n)),this._gridUnclustered[n]=new L.DistanceGrid(i(n));this._topClusterLevel=new L.MarkerCluster(this,-1)},_addLayer:function(t,e){var i,n,s=this._gridClusters,r=this._gridUnclustered;for(this.options.singleMarkerMode&amp;&amp;(t.options.icon=this.options.iconCreateFunction({getChildCount:function(){return 1},getAllChildMarkers:function(){return[t]}}));e&gt;=0;e--){i=this._map.project(t.getLatLng(),e);var o=s[e].getNearObject(i);if(o)return o._addChild(t),t.__parent=o,void 0;if(o=r[e].getNearObject(i)){var a=o.__parent;a&amp;&amp;this._removeLayer(o,!1);var h=new L.MarkerCluster(this,e,o,t);s[e].addObject(h,this._map.project(h._cLatLng,e)),o.__parent=h,t.__parent=h;var _=h;for(n=e-1;n&gt;a._zoom;n--)_=new L.MarkerCluster(this,n,_),s[n].addObject(_,this._map.project(o.getLatLng(),n));for(a._addChild(_),n=e;n&gt;=0&amp;&amp;r[n].removeObject(o,this._map.project(o.getLatLng(),n));n--);return}r[e].addObject(t,i)}this._topClusterLevel._addChild(t),t.__parent=this._topClusterLevel},_enqueue:function(t){this._queue.push(t),this._queueTimeout||(this._queueTimeout=setTimeout(L.bind(this._processQueue,this),300))},_processQueue:function(){for(var t=0;t&lt;this._queue.length;t++)this._queue[t].call(this);this._queue.length=0,clearTimeout(this._queueTimeout),this._queueTimeout=null},_mergeSplitClusters:function(){this._processQueue(),this._zoom&lt;this._map._zoom&amp;&amp;this._currentShownBounds.intersects(this._getExpandedVisibleBounds())?(this._animationStart(),this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,this._zoom,this._getExpandedVisibleBounds()),this._animationZoomIn(this._zoom,this._map._zoom)):this._zoom&gt;this._map._zoom?(this._animationStart(),this._animationZoomOut(this._zoom,this._map._zoom)):this._moveEnd()},_getExpandedVisibleBounds:function(){if(!this.options.removeOutsideVisibleBounds)return this._map.getBounds();var t=this._map,e=t.getBounds(),i=e._southWest,n=e._northEast,s=L.Browser.mobile?0:Math.abs(i.lat-n.lat),r=L.Browser.mobile?0:Math.abs(i.lng-n.lng);return new L.LatLngBounds(new L.LatLng(i.lat-s,i.lng-r,!0),new L.LatLng(n.lat+s,n.lng+r,!0))},_animationAddLayerNonAnimated:function(t,e){if(e===t)this._featureGroup.addLayer(t);else if(2===e._childCount){e._addToMap();var i=e.getAllChildMarkers();this._featureGroup.removeLayer(i[0]),this._featureGroup.removeLayer(i[1])}else e._updateIcon()}}),L.MarkerClusterGroup.include(L.DomUtil.TRANSITION?{_animationStart:function(){this._map._mapPane.className+=&quot; leaflet-cluster-anim&quot;,this._inZoomAnimation++},_animationEnd:function(){this._map&amp;&amp;(this._map._mapPane.className=this._map._mapPane.className.replace(&quot; leaflet-cluster-anim&quot;,&quot;&quot;)),this._inZoomAnimation--,this.fire(&quot;animationend&quot;)},_animationZoomIn:function(t,e){var i,n=this._getExpandedVisibleBounds(),s=this._featureGroup;this._topClusterLevel._recursively(n,t,0,function(r){var o,a=r._latlng,h=r._markers;for(n.contains(a)||(a=null),r._isSingleParent()&amp;&amp;t+1===e?(s.removeLayer(r),r._recursivelyAddChildrenToMap(null,e,n)):(r.setOpacity(0),r._recursivelyAddChildrenToMap(a,e,n)),i=h.length-1;i&gt;=0;i--)o=h[i],n.contains(o._latlng)||s.removeLayer(o)}),this._forceLayout(),this._topClusterLevel._recursivelyBecomeVisible(n,e),s.eachLayer(function(t){t instanceof L.MarkerCluster||!t._icon||t.setOpacity(1)}),this._topClusterLevel._recursively(n,t,e,function(t){t._recursivelyRestoreChildPositions(e)}),this._enqueue(function(){this._topClusterLevel._recursively(n,t,0,function(t){s.removeLayer(t),t.setOpacity(1)}),this._animationEnd()})},_animationZoomOut:function(t,e){this._animationZoomOutSingle(this._topClusterLevel,t-1,e),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t,this._getExpandedVisibleBounds())},_animationZoomOutSingle:function(t,e,i){var n=this._getExpandedVisibleBounds();t._recursivelyAnimateChildrenInAndAddSelfToMap(n,e+1,i);var s=this;this._forceLayout(),t._recursivelyBecomeVisible(n,i),this._enqueue(function(){if(1===t._childCount){var r=t._markers[0];r.setLatLng(r.getLatLng()),r.setOpacity&amp;&amp;r.setOpacity(1)}else t._recursively(n,i,0,function(t){t._recursivelyRemoveChildrenFromMap(n,e+1)});s._animationEnd()})},_animationAddLayer:function(t,e){var i=this,n=this._featureGroup;n.addLayer(t),e!==t&amp;&amp;(e._childCount&gt;2?(e._updateIcon(),this._forceLayout(),this._animationStart(),t._setPos(this._map.latLngToLayerPoint(e.getLatLng())),t.setOpacity(0),this._enqueue(function(){n.removeLayer(t),t.setOpacity(1),i._animationEnd()})):(this._forceLayout(),i._animationStart(),i._animationZoomOutSingle(e,this._map.getMaxZoom(),this._map.getZoom())))},_forceLayout:function(){L.Util.falseFn(e.body.offsetWidth)}}:{_animationStart:function(){},_animationZoomIn:function(t,e){this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this.fire(&quot;animationend&quot;)},_animationZoomOut:function(t,e){this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this.fire(&quot;animationend&quot;)},_animationAddLayer:function(t,e){this._animationAddLayerNonAnimated(t,e)}}),L.markerClusterGroup=function(t){return new L.MarkerClusterGroup(t)},L.MarkerCluster=L.Marker.extend({initialize:function(t,e,i,n){L.Marker.prototype.initialize.call(this,i?i._cLatLng||i.getLatLng():new L.LatLng(0,0),{icon:this}),this._group=t,this._zoom=e,this._markers=[],this._childClusters=[],this._childCount=0,this._iconNeedsUpdate=!0,this._bounds=new L.LatLngBounds,i&amp;&amp;this._addChild(i),n&amp;&amp;this._addChild(n)},getAllChildMarkers:function(t){t=t||[];for(var e=this._childClusters.length-1;e&gt;=0;e--)this._childClusters[e].getAllChildMarkers(t);for(var i=this._markers.length-1;i&gt;=0;i--)t.push(this._markers[i]);return t},getChildCount:function(){return this._childCount},zoomToBounds:function(){for(var t,e=this._childClusters.slice(),i=this._group._map,n=i.getBoundsZoom(this._bounds),s=this._zoom+1,r=i.getZoom();e.length&gt;0&amp;&amp;n&gt;s;){s++;var o=[];for(t=0;t&lt;e.length;t++)o=o.concat(e[t]._childClusters);e=o}n&gt;s?this._group._map.setView(this._latlng,s):r&gt;=n?this._group._map.setView(this._latlng,r+1):this._group._map.fitBounds(this._bounds)},getBounds:function(){var t=new L.LatLngBounds;return t.extend(this._bounds),t},_updateIcon:function(){this._iconNeedsUpdate=!0,this._icon&amp;&amp;this.setIcon(this)},createIcon:function(){return this._iconNeedsUpdate&amp;&amp;(this._iconObj=this._group.options.iconCreateFunction(this),this._iconNeedsUpdate=!1),this._iconObj.createIcon()},createShadow:function(){return this._iconObj.createShadow()},_addChild:function(t,e){this._iconNeedsUpdate=!0,this._expandBounds(t),t instanceof L.MarkerCluster?(e||(this._childClusters.push(t),t.__parent=this),this._childCount+=t._childCount):(e||this._markers.push(t),this._childCount++),this.__parent&amp;&amp;this.__parent._addChild(t,!0)},_expandBounds:function(t){var e,i=t._wLatLng||t._latlng;t instanceof L.MarkerCluster?(this._bounds.extend(t._bounds),e=t._childCount):(this._bounds.extend(i),e=1),this._cLatLng||(this._cLatLng=t._cLatLng||i);var n=this._childCount+e;this._wLatLng?(this._wLatLng.lat=(i.lat*e+this._wLatLng.lat*this._childCount)/n,this._wLatLng.lng=(i.lng*e+this._wLatLng.lng*this._childCount)/n):this._latlng=this._wLatLng=new L.LatLng(i.lat,i.lng)},_addToMap:function(t){t&amp;&amp;(this._backupLatlng=this._latlng,this.setLatLng(t)),this._group._featureGroup.addLayer(this)},_recursivelyAnimateChildrenIn:function(t,e,i){this._recursively(t,0,i-1,function(t){var i,n,s=t._markers;for(i=s.length-1;i&gt;=0;i--)n=s[i],n._icon&amp;&amp;(n._setPos(e),n.setOpacity(0))},function(t){var i,n,s=t._childClusters;for(i=s.length-1;i&gt;=0;i--)n=s[i],n._icon&amp;&amp;(n._setPos(e),n.setOpacity(0))})},_recursivelyAnimateChildrenInAndAddSelfToMap:function(t,e,i){this._recursively(t,i,0,function(n){n._recursivelyAnimateChildrenIn(t,n._group._map.latLngToLayerPoint(n.getLatLng()).round(),e),n._isSingleParent()&amp;&amp;e-1===i?(n.setOpacity(1),n._recursivelyRemoveChildrenFromMap(t,e)):n.setOpacity(0),n._addToMap()})},_recursivelyBecomeVisible:function(t,e){this._recursively(t,0,e,null,function(t){t.setOpacity(1)})},_recursivelyAddChildrenToMap:function(t,e,i){this._recursively(i,-1,e,function(n){if(e!==n._zoom)for(var s=n._markers.length-1;s&gt;=0;s--){var r=n._markers[s];i.contains(r._latlng)&amp;&amp;(t&amp;&amp;(r._backupLatlng=r.getLatLng(),r.setLatLng(t),r.setOpacity&amp;&amp;r.setOpacity(0)),n._group._featureGroup.addLayer(r))}},function(e){e._addToMap(t)})},_recursivelyRestoreChildPositions:function(t){for(var e=this._markers.length-1;e&gt;=0;e--){var i=this._markers[e];i._backupLatlng&amp;&amp;(i.setLatLng(i._backupLatlng),delete i._backupLatlng)}if(t-1===this._zoom)for(var n=this._childClusters.length-1;n&gt;=0;n--)this._childClusters[n]._restorePosition();else for(var s=this._childClusters.length-1;s&gt;=0;s--)this._childClusters[s]._recursivelyRestoreChildPositions(t)},_restorePosition:function(){this._backupLatlng&amp;&amp;(this.setLatLng(this._backupLatlng),delete this._backupLatlng)},_recursivelyRemoveChildrenFromMap:function(t,e,i){var n,s;this._recursively(t,-1,e-1,function(t){for(s=t._markers.length-1;s&gt;=0;s--)n=t._markers[s],i&amp;&amp;i.contains(n._latlng)||(t._group._featureGroup.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))},function(t){for(s=t._childClusters.length-1;s&gt;=0;s--)n=t._childClusters[s],i&amp;&amp;i.contains(n._latlng)||(t._group._featureGroup.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))})},_recursively:function(t,e,i,n,s){var r,o,a=this._childClusters,h=this._zoom;if(e&gt;h)for(r=a.length-1;r&gt;=0;r--)o=a[r],t.intersects(o._bounds)&amp;&amp;o._recursively(t,e,i,n,s);else if(n&amp;&amp;n(this),s&amp;&amp;this._zoom===i&amp;&amp;s(this),i&gt;h)for(r=a.length-1;r&gt;=0;r--)o=a[r],t.intersects(o._bounds)&amp;&amp;o._recursively(t,e,i,n,s)},_recalculateBounds:function(){var t,e=this._markers,i=this._childClusters;for(this._bounds=new L.LatLngBounds,delete this._wLatLng,t=e.length-1;t&gt;=0;t--)this._expandBounds(e[t]);for(t=i.length-1;t&gt;=0;t--)this._expandBounds(i[t])},_isSingleParent:function(){return this._childClusters.length&gt;0&amp;&amp;this._childClusters[0]._childCount===this._childCount}}),L.DistanceGrid=function(t){this._cellSize=t,this._sqCellSize=t*t,this._grid={},this._objectPoint={}},L.DistanceGrid.prototype={addObject:function(t,e){var i=this._getCoord(e.x),n=this._getCoord(e.y),s=this._grid,r=s[n]=s[n]||{},o=r[i]=r[i]||[],a=L.Util.stamp(t);this._objectPoint[a]=e,o.push(t)},updateObject:function(t,e){this.removeObject(t),this.addObject(t,e)},removeObject:function(t,e){var i,n,s=this._getCoord(e.x),r=this._getCoord(e.y),o=this._grid,a=o[r]=o[r]||{},h=a[s]=a[s]||[];for(delete this._objectPoint[L.Util.stamp(t)],i=0,n=h.length;n&gt;i;i++)if(h[i]===t)return h.splice(i,1),1===n&amp;&amp;delete a[s],!0},eachObject:function(t,e){var i,n,s,r,o,a,h,_=this._grid;for(i in _){o=_[i];for(n in o)for(a=o[n],s=0,r=a.length;r&gt;s;s++)h=t.call(e,a[s]),h&amp;&amp;(s--,r--)}},getNearObject:function(t){var e,i,n,s,r,o,a,h,_=this._getCoord(t.x),u=this._getCoord(t.y),l=this._objectPoint,d=this._sqCellSize,p=null;for(e=u-1;u+1&gt;=e;e++)if(s=this._grid[e])for(i=_-1;_+1&gt;=i;i++)if(r=s[i])for(n=0,o=r.length;o&gt;n;n++)a=r[n],h=this._sqDist(l[L.Util.stamp(a)],t),d&gt;h&amp;&amp;(d=h,p=a);return p},_getCoord:function(t){return Math.floor(t/this._cellSize)},_sqDist:function(t,e){var i=e.x-t.x,n=e.y-t.y;return i*i+n*n}},function(){L.QuickHull={getDistant:function(t,e){var i=e[1].lat-e[0].lat,n=e[0].lng-e[1].lng;return n*(t.lat-e[0].lat)+i*(t.lng-e[0].lng)},findMostDistantPointFromBaseLine:function(t,e){var i,n,s,r=0,o=null,a=[];for(i=e.length-1;i&gt;=0;i--)n=e[i],s=this.getDistant(n,t),s&gt;0&amp;&amp;(a.push(n),s&gt;r&amp;&amp;(r=s,o=n));return{maxPoint:o,newPoints:a}},buildConvexHull:function(t,e){var i=[],n=this.findMostDistantPointFromBaseLine(t,e);return n.maxPoint?(i=i.concat(this.buildConvexHull([t[0],n.maxPoint],n.newPoints)),i=i.concat(this.buildConvexHull([n.maxPoint,t[1]],n.newPoints))):[t[0]]},getConvexHull:function(t){var e,i=!1,n=!1,s=null,r=null;for(e=t.length-1;e&gt;=0;e--){var o=t[e];(i===!1||o.lat&gt;i)&amp;&amp;(s=o,i=o.lat),(n===!1||o.lat&lt;n)&amp;&amp;(r=o,n=o.lat)}var a=[].concat(this.buildConvexHull([r,s],t),this.buildConvexHull([s,r],t));return a}}}(),L.MarkerCluster.include({getConvexHull:function(){var t,e,i=this.getAllChildMarkers(),n=[];for(e=i.length-1;e&gt;=0;e--)t=i[e].getLatLng(),n.push(t);return L.QuickHull.getConvexHull(n)}}),L.MarkerCluster.include({_2PI:2*Math.PI,_circleFootSeparation:25,_circleStartAngle:Math.PI/6,_spiralFootSeparation:28,_spiralLengthStart:11,_spiralLengthFactor:5,_circleSpiralSwitchover:9,spiderfy:function(){if(this._group._spiderfied!==this&amp;&amp;!this._group._inZoomAnimation){var t,e=this.getAllChildMarkers(),i=this._group,n=i._map,s=n.latLngToLayerPoint(this._latlng);this._group._unspiderfy(),this._group._spiderfied=this,e.length&gt;=this._circleSpiralSwitchover?t=this._generatePointsSpiral(e.length,s):(s.y+=10,t=this._generatePointsCircle(e.length,s)),this._animationSpiderfy(e,t)}},unspiderfy:function(t){this._group._inZoomAnimation||(this._animationUnspiderfy(t),this._group._spiderfied=null)},_generatePointsCircle:function(t,e){var i,n,s=this._group.options.spiderfyDistanceMultiplier*this._circleFootSeparation*(2+t),r=s/this._2PI,o=this._2PI/t,a=[];for(a.length=t,i=t-1;i&gt;=0;i--)n=this._circleStartAngle+i*o,a[i]=new L.Point(e.x+r*Math.cos(n),e.y+r*Math.sin(n))._round();return a},_generatePointsSpiral:function(t,e){var i,n=this._group.options.spiderfyDistanceMultiplier*this._spiralLengthStart,s=this._group.options.spiderfyDistanceMultiplier*this._spiralFootSeparation,r=this._group.options.spiderfyDistanceMultiplier*this._spiralLengthFactor,o=0,a=[];for(a.length=t,i=t-1;i&gt;=0;i--)o+=s/n+5e-4*i,a[i]=new L.Point(e.x+n*Math.cos(o),e.y+n*Math.sin(o))._round(),n+=this._2PI*r/o;return a},_noanimationUnspiderfy:function(){var t,e,i=this._group,n=i._map,s=i._featureGroup,r=this.getAllChildMarkers();for(this.setOpacity(1),e=r.length-1;e&gt;=0;e--)t=r[e],s.removeLayer(t),t._preSpiderfyLatlng&amp;&amp;(t.setLatLng(t._preSpiderfyLatlng),delete t._preSpiderfyLatlng),t.setZIndexOffset&amp;&amp;t.setZIndexOffset(0),t._spiderLeg&amp;&amp;(n.removeLayer(t._spiderLeg),delete t._spiderLeg);i._spiderfied=null}}),L.MarkerCluster.include(L.DomUtil.TRANSITION?{SVG_ANIMATION:function(){return e.createElementNS(&quot;http://www.w3.org/2000/svg&quot;,&quot;animate&quot;).toString().indexOf(&quot;SVGAnimate&quot;)&gt;-1}(),_animationSpiderfy:function(t,i){var n,s,r,o,a=this,h=this._group,_=h._map,u=h._featureGroup,l=_.latLngToLayerPoint(this._latlng);for(n=t.length-1;n&gt;=0;n--)s=t[n],s.setOpacity?(s.setZIndexOffset(1e6),s.setOpacity(0),u.addLayer(s),s._setPos(l)):u.addLayer(s);h._forceLayout(),h._animationStart();var d=L.Path.SVG?0:.3,p=L.Path.SVG_NS;for(n=t.length-1;n&gt;=0;n--)if(o=_.layerPointToLatLng(i[n]),s=t[n],s._preSpiderfyLatlng=s._latlng,s.setLatLng(o),s.setOpacity&amp;&amp;s.setOpacity(1),r=new L.Polyline([a._latlng,o],{weight:1.5,color:&quot;#222&quot;,opacity:d}),_.addLayer(r),s._spiderLeg=r,L.Path.SVG&amp;&amp;this.SVG_ANIMATION){var c=r._path.getTotalLength();r._path.setAttribute(&quot;stroke-dasharray&quot;,c+&quot;,&quot;+c);var f=e.createElementNS(p,&quot;animate&quot;);f.setAttribute(&quot;attributeName&quot;,&quot;stroke-dashoffset&quot;),f.setAttribute(&quot;begin&quot;,&quot;indefinite&quot;),f.setAttribute(&quot;from&quot;,c),f.setAttribute(&quot;to&quot;,0),f.setAttribute(&quot;dur&quot;,.25),r._path.appendChild(f),f.beginElement(),f=e.createElementNS(p,&quot;animate&quot;),f.setAttribute(&quot;attributeName&quot;,&quot;stroke-opacity&quot;),f.setAttribute(&quot;attributeName&quot;,&quot;stroke-opacity&quot;),f.setAttribute(&quot;begin&quot;,&quot;indefinite&quot;),f.setAttribute(&quot;from&quot;,0),f.setAttribute(&quot;to&quot;,.5),f.setAttribute(&quot;dur&quot;,.25),r._path.appendChild(f),f.beginElement()}if(a.setOpacity(.3),L.Path.SVG)for(this._group._forceLayout(),n=t.length-1;n&gt;=0;n--)s=t[n]._spiderLeg,s.options.opacity=.5,s._path.setAttribute(&quot;stroke-opacity&quot;,.5);setTimeout(function(){h._animationEnd(),h.fire(&quot;spiderfied&quot;)},200)},_animationUnspiderfy:function(t){var e,i,n,s=this._group,r=s._map,o=s._featureGroup,a=t?r._latLngToNewLayerPoint(this._latlng,t.zoom,t.center):r.latLngToLayerPoint(this._latlng),h=this.getAllChildMarkers(),_=L.Path.SVG&amp;&amp;this.SVG_ANIMATION;for(s._animationStart(),this.setOpacity(1),i=h.length-1;i&gt;=0;i--)e=h[i],e._preSpiderfyLatlng&amp;&amp;(e.setLatLng(e._preSpiderfyLatlng),delete e._preSpiderfyLatlng,e.setOpacity?(e._setPos(a),e.setOpacity(0)):o.removeLayer(e),_&amp;&amp;(n=e._spiderLeg._path.childNodes[0],n.setAttribute(&quot;to&quot;,n.getAttribute(&quot;from&quot;)),n.setAttribute(&quot;from&quot;,0),n.beginElement(),n=e._spiderLeg._path.childNodes[1],n.setAttribute(&quot;from&quot;,.5),n.setAttribute(&quot;to&quot;,0),n.setAttribute(&quot;stroke-opacity&quot;,0),n.beginElement(),e._spiderLeg._path.setAttribute(&quot;stroke-opacity&quot;,0)));setTimeout(function(){var t=0;for(i=h.length-1;i&gt;=0;i--)e=h[i],e._spiderLeg&amp;&amp;t++;for(i=h.length-1;i&gt;=0;i--)e=h[i],e._spiderLeg&amp;&amp;(e.setOpacity&amp;&amp;(e.setOpacity(1),e.setZIndexOffset(0)),t&gt;1&amp;&amp;o.removeLayer(e),r.removeLayer(e._spiderLeg),delete e._spiderLeg);s._animationEnd()},200)}}:{_animationSpiderfy:function(t,e){var i,n,s,r,o=this._group,a=o._map,h=o._featureGroup;for(i=t.length-1;i&gt;=0;i--)r=a.layerPointToLatLng(e[i]),n=t[i],n._preSpiderfyLatlng=n._latlng,n.setLatLng(r),n.setZIndexOffset&amp;&amp;n.setZIndexOffset(1e6),h.addLayer(n),s=new L.Polyline([this._latlng,r],{weight:1.5,color:&quot;#222&quot;}),a.addLayer(s),n._spiderLeg=s;this.setOpacity(.3),o.fire(&quot;spiderfied&quot;)},_animationUnspiderfy:function(){this._noanimationUnspiderfy()}}),L.MarkerClusterGroup.include({_spiderfied:null,_spiderfierOnAdd:function(){this._map.on(&quot;click&quot;,this._unspiderfyWrapper,this),this._map.options.zoomAnimation&amp;&amp;this._map.on(&quot;zoomstart&quot;,this._unspiderfyZoomStart,this),this._map.on(&quot;zoomend&quot;,this._noanimationUnspiderfy,this),L.Path.SVG&amp;&amp;!L.Browser.touch&amp;&amp;this._map._initPathRoot()},_spiderfierOnRemove:function(){this._map.off(&quot;click&quot;,this._unspiderfyWrapper,this),this._map.off(&quot;zoomstart&quot;,this._unspiderfyZoomStart,this),this._map.off(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this),this._unspiderfy()},_unspiderfyZoomStart:function(){this._map&amp;&amp;this._map.on(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this)},_unspiderfyZoomAnim:function(t){L.DomUtil.hasClass(this._map._mapPane,&quot;leaflet-touching&quot;)||(this._map.off(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this),this._unspiderfy(t))},_unspiderfyWrapper:function(){this._unspiderfy()},_unspiderfy:function(t){this._spiderfied&amp;&amp;this._spiderfied.unspiderfy(t)},_noanimationUnspiderfy:function(){this._spiderfied&amp;&amp;this._spiderfied._noanimationUnspiderfy()},_unspiderfyLayer:function(t){t._spiderLeg&amp;&amp;(this._featureGroup.removeLayer(t),t.setOpacity(1),t.setZIndexOffset(0),this._map.removeLayer(t._spiderLeg),delete t._spiderLeg)}})}(window,document);</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">!function(t,e){L.MarkerClusterGroup=L.FeatureGroup.extend({options:{maxClusterRadius:80,iconCreateFunction:null,spiderfyOnMaxZoom:!0,showCoverageOnHover:!0,zoomToBoundsOnClick:!0,singleMarkerMode:!1,disableClusteringAtZoom:null,removeOutsideVisibleBounds:!0,animateAddingMarkers:!1,spiderfyDistanceMultiplier:1,chunkedLoading:!1,chunkInterval:200,chunkDelay:50,chunkProgress:null,polygonOptions:{}},initialize:function(t){L.Util.setOptions(this,t),this.options.iconCreateFunction||(this.options.iconCreateFunction=this._defaultIconCreateFunction),this._featureGroup=L.featureGroup(),this._featureGroup.on(L.FeatureGroup.EVENTS,this._propagateEvent,this),this._nonPointGroup=L.featureGroup(),this._nonPointGroup.on(L.FeatureGroup.EVENTS,this._propagateEvent,this),this._inZoomAnimation=0,this._needsClustering=[],this._needsRemoving=[],this._currentShownBounds=null,this._queue=[]},addLayer:function(t){if(t instanceof L.LayerGroup){var e=[];for(var i in t._layers)e.push(t._layers[i]);return this.addLayers(e)}if(!t.getLatLng)return this._nonPointGroup.addLayer(t),this;if(!this._map)return this._needsClustering.push(t),this;if(this.hasLayer(t))return this;this._unspiderfy&amp;&amp;this._unspiderfy(),this._addLayer(t,this._maxZoom);var n=t,s=this._map.getZoom();if(t.__parent)for(;n.__parent._zoom&gt;=s;)n=n.__parent;return this._currentShownBounds.contains(n.getLatLng())&amp;&amp;(this.options.animateAddingMarkers?this._animationAddLayer(t,n):this._animationAddLayerNonAnimated(t,n)),this},removeLayer:function(t){if(t instanceof L.LayerGroup){var e=[];for(var i in t._layers)e.push(t._layers[i]);return this.removeLayers(e)}return t.getLatLng?this._map?t.__parent?(this._unspiderfy&amp;&amp;(this._unspiderfy(),this._unspiderfyLayer(t)),this._removeLayer(t,!0),this._featureGroup.hasLayer(t)&amp;&amp;(this._featureGroup.removeLayer(t),t.setOpacity&amp;&amp;t.setOpacity(1)),this):this:(!this._arraySplice(this._needsClustering,t)&amp;&amp;this.hasLayer(t)&amp;&amp;this._needsRemoving.push(t),this):(this._nonPointGroup.removeLayer(t),this)},addLayers:function(t){var e,i,n,s,r=this._featureGroup,o=this._nonPointGroup,a=this.options.chunkedLoading,h=this.options.chunkInterval,_=this.options.chunkProgress;if(this._map){var u=0,l=(new Date).getTime(),d=L.bind(function(){for(var e=(new Date).getTime();u&lt;t.length;u++){if(a&amp;&amp;0===u%200){var i=(new Date).getTime()-e;if(i&gt;h)break}if(s=t[u],s.getLatLng){if(!this.hasLayer(s)&amp;&amp;(this._addLayer(s,this._maxZoom),s.__parent&amp;&amp;2===s.__parent.getChildCount())){var n=s.__parent.getAllChildMarkers(),p=n[0]===s?n[1]:n[0];r.removeLayer(p)}}else o.addLayer(s)}_&amp;&amp;_(u,t.length,(new Date).getTime()-l),u===t.length?(this._featureGroup.eachLayer(function(t){t instanceof L.MarkerCluster&amp;&amp;t._iconNeedsUpdate&amp;&amp;t._updateIcon()}),this._topClusterLevel._recursivelyAddChildrenToMap(null,this._zoom,this._currentShownBounds)):setTimeout(d,this.options.chunkDelay)},this);d()}else{for(e=[],i=0,n=t.length;n&gt;i;i++)s=t[i],s.getLatLng?this.hasLayer(s)||e.push(s):o.addLayer(s);this._needsClustering=this._needsClustering.concat(e)}return this},removeLayers:function(t){var e,i,n,s=this._featureGroup,r=this._nonPointGroup;if(!this._map){for(e=0,i=t.length;i&gt;e;e++)n=t[e],this._arraySplice(this._needsClustering,n),r.removeLayer(n);return this}for(e=0,i=t.length;i&gt;e;e++)n=t[e],n.__parent?(this._removeLayer(n,!0,!0),s.hasLayer(n)&amp;&amp;(s.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))):r.removeLayer(n);return this._topClusterLevel._recursivelyAddChildrenToMap(null,this._zoom,this._currentShownBounds),s.eachLayer(function(t){t instanceof L.MarkerCluster&amp;&amp;t._updateIcon()}),this},clearLayers:function(){return this._map||(this._needsClustering=[],delete this._gridClusters,delete this._gridUnclustered),this._noanimationUnspiderfy&amp;&amp;this._noanimationUnspiderfy(),this._featureGroup.clearLayers(),this._nonPointGroup.clearLayers(),this.eachLayer(function(t){delete t.__parent}),this._map&amp;&amp;this._generateInitialClusters(),this},getBounds:function(){var t=new L.LatLngBounds;this._topClusterLevel&amp;&amp;t.extend(this._topClusterLevel._bounds);for(var e=this._needsClustering.length-1;e&gt;=0;e--)t.extend(this._needsClustering[e].getLatLng());return t.extend(this._nonPointGroup.getBounds()),t},eachLayer:function(t,e){var i,n=this._needsClustering.slice();for(this._topClusterLevel&amp;&amp;this._topClusterLevel.getAllChildMarkers(n),i=n.length-1;i&gt;=0;i--)t.call(e,n[i]);this._nonPointGroup.eachLayer(t,e)},getLayers:function(){var t=[];return this.eachLayer(function(e){t.push(e)}),t},getLayer:function(t){var e=null;return this.eachLayer(function(i){L.stamp(i)===t&amp;&amp;(e=i)}),e},hasLayer:function(t){if(!t)return!1;var e,i=this._needsClustering;for(e=i.length-1;e&gt;=0;e--)if(i[e]===t)return!0;for(i=this._needsRemoving,e=i.length-1;e&gt;=0;e--)if(i[e]===t)return!1;return!(!t.__parent||t.__parent._group!==this)||this._nonPointGroup.hasLayer(t)},zoomToShowLayer:function(t,e){var i=function(){if((t._icon||t.__parent._icon)&amp;&amp;!this._inZoomAnimation)if(this._map.off(&quot;moveend&quot;,i,this),this.off(&quot;animationend&quot;,i,this),t._icon)e();else if(t.__parent._icon){var n=function(){this.off(&quot;spiderfied&quot;,n,this),e()};this.on(&quot;spiderfied&quot;,n,this),t.__parent.spiderfy()}};if(t._icon&amp;&amp;this._map.getBounds().contains(t.getLatLng()))e();else if(t.__parent._zoom&lt;this._map.getZoom())this._map.on(&quot;moveend&quot;,i,this),this._map.panTo(t.getLatLng());else{var n=function(){this._map.off(&quot;movestart&quot;,n,this),n=null};this._map.on(&quot;movestart&quot;,n,this),this._map.on(&quot;moveend&quot;,i,this),this.on(&quot;animationend&quot;,i,this),t.__parent.zoomToBounds(),n&amp;&amp;i.call(this)}},onAdd:function(t){this._map=t;var e,i,n;if(!isFinite(this._map.getMaxZoom()))throw&quot;Map has no maxZoom specified&quot;;for(this._featureGroup.onAdd(t),this._nonPointGroup.onAdd(t),this._gridClusters||this._generateInitialClusters(),e=0,i=this._needsRemoving.length;i&gt;e;e++)n=this._needsRemoving[e],this._removeLayer(n,!0);this._needsRemoving=[],this._zoom=this._map.getZoom(),this._currentShownBounds=this._getExpandedVisibleBounds(),this._map.on(&quot;zoomend&quot;,this._zoomEnd,this),this._map.on(&quot;moveend&quot;,this._moveEnd,this),this._spiderfierOnAdd&amp;&amp;this._spiderfierOnAdd(),this._bindEvents(),i=this._needsClustering,this._needsClustering=[],this.addLayers(i)},onRemove:function(t){t.off(&quot;zoomend&quot;,this._zoomEnd,this),t.off(&quot;moveend&quot;,this._moveEnd,this),this._unbindEvents(),this._map._mapPane.className=this._map._mapPane.className.replace(&quot; leaflet-cluster-anim&quot;,&quot;&quot;),this._spiderfierOnRemove&amp;&amp;this._spiderfierOnRemove(),this._hideCoverage(),this._featureGroup.onRemove(t),this._nonPointGroup.onRemove(t),this._featureGroup.clearLayers(),this._map=null},getVisibleParent:function(t){for(var e=t;e&amp;&amp;!e._icon;)e=e.__parent;return e||null},_arraySplice:function(t,e){for(var i=t.length-1;i&gt;=0;i--)if(t[i]===e)return t.splice(i,1),!0},_removeLayer:function(t,e,i){var n=this._gridClusters,s=this._gridUnclustered,r=this._featureGroup,o=this._map;if(e)for(var a=this._maxZoom;a&gt;=0&amp;&amp;s[a].removeObject(t,o.project(t.getLatLng(),a));a--);var h,_=t.__parent,u=_._markers;for(this._arraySplice(u,t);_&amp;&amp;(_._childCount--,!(_._zoom&lt;0));)e&amp;&amp;_._childCount&lt;=1?(h=_._markers[0]===t?_._markers[1]:_._markers[0],n[_._zoom].removeObject(_,o.project(_._cLatLng,_._zoom)),s[_._zoom].addObject(h,o.project(h.getLatLng(),_._zoom)),this._arraySplice(_.__parent._childClusters,_),_.__parent._markers.push(h),h.__parent=_.__parent,_._icon&amp;&amp;(r.removeLayer(_),i||r.addLayer(h))):(_._recalculateBounds(),i&amp;&amp;_._icon||_._updateIcon()),_=_.__parent;delete t.__parent},_isOrIsParent:function(t,e){for(;e;){if(t===e)return!0;e=e.parentNode}return!1},_propagateEvent:function(t){if(t.layer instanceof L.MarkerCluster){if(t.originalEvent&amp;&amp;this._isOrIsParent(t.layer._icon,t.originalEvent.relatedTarget))return;t.type=&quot;cluster&quot;+t.type}this.fire(t.type,t)},_defaultIconCreateFunction:function(t){var e=t.getChildCount(),i=&quot; marker-cluster-&quot;;return i+=10&gt;e?&quot;small&quot;:100&gt;e?&quot;medium&quot;:&quot;large&quot;,new L.DivIcon({html:&quot;&lt;div&gt;&lt;span&gt;&quot;+e+&quot;&lt;/span&gt;&lt;/div&gt;&quot;,className:&quot;marker-cluster&quot;+i,iconSize:new L.Point(40,40)})},_bindEvents:function(){var t=this._map,e=this.options.spiderfyOnMaxZoom,i=this.options.showCoverageOnHover,n=this.options.zoomToBoundsOnClick;(e||n)&amp;&amp;this.on(&quot;clusterclick&quot;,this._zoomOrSpiderfy,this),i&amp;&amp;(this.on(&quot;clustermouseover&quot;,this._showCoverage,this),this.on(&quot;clustermouseout&quot;,this._hideCoverage,this),t.on(&quot;zoomend&quot;,this._hideCoverage,this))},_zoomOrSpiderfy:function(t){var e=this._map;e.getMaxZoom()===e.getZoom()?this.options.spiderfyOnMaxZoom&amp;&amp;t.layer.spiderfy():this.options.zoomToBoundsOnClick&amp;&amp;t.layer.zoomToBounds(),t.originalEvent&amp;&amp;13===t.originalEvent.keyCode&amp;&amp;e._container.focus()},_showCoverage:function(t){var e=this._map;this._inZoomAnimation||(this._shownPolygon&amp;&amp;e.removeLayer(this._shownPolygon),t.layer.getChildCount()&gt;2&amp;&amp;t.layer!==this._spiderfied&amp;&amp;(this._shownPolygon=new L.Polygon(t.layer.getConvexHull(),this.options.polygonOptions),e.addLayer(this._shownPolygon)))},_hideCoverage:function(){this._shownPolygon&amp;&amp;(this._map.removeLayer(this._shownPolygon),this._shownPolygon=null)},_unbindEvents:function(){var t=this.options.spiderfyOnMaxZoom,e=this.options.showCoverageOnHover,i=this.options.zoomToBoundsOnClick,n=this._map;(t||i)&amp;&amp;this.off(&quot;clusterclick&quot;,this._zoomOrSpiderfy,this),e&amp;&amp;(this.off(&quot;clustermouseover&quot;,this._showCoverage,this),this.off(&quot;clustermouseout&quot;,this._hideCoverage,this),n.off(&quot;zoomend&quot;,this._hideCoverage,this))},_zoomEnd:function(){this._map&amp;&amp;(this._mergeSplitClusters(),this._zoom=this._map._zoom,this._currentShownBounds=this._getExpandedVisibleBounds())},_moveEnd:function(){if(!this._inZoomAnimation){var t=this._getExpandedVisibleBounds();this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,this._zoom,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,this._map._zoom,t),this._currentShownBounds=t}},_generateInitialClusters:function(){var t=this._map.getMaxZoom(),e=this.options.maxClusterRadius,i=e;&quot;function&quot;!=typeof e&amp;&amp;(i=function(){return e}),this.options.disableClusteringAtZoom&amp;&amp;(t=this.options.disableClusteringAtZoom-1),this._maxZoom=t,this._gridClusters={},this._gridUnclustered={};for(var n=t;n&gt;=0;n--)this._gridClusters[n]=new L.DistanceGrid(i(n)),this._gridUnclustered[n]=new L.DistanceGrid(i(n));this._topClusterLevel=new L.MarkerCluster(this,-1)},_addLayer:function(t,e){var i,n,s=this._gridClusters,r=this._gridUnclustered;for(this.options.singleMarkerMode&amp;&amp;(t.options.icon=this.options.iconCreateFunction({getChildCount:function(){return 1},getAllChildMarkers:function(){return[t]}}));e&gt;=0;e--){i=this._map.project(t.getLatLng(),e);var o=s[e].getNearObject(i);if(o)return o._addChild(t),t.__parent=o,void 0;if(o=r[e].getNearObject(i)){var a=o.__parent;a&amp;&amp;this._removeLayer(o,!1);var h=new L.MarkerCluster(this,e,o,t);s[e].addObject(h,this._map.project(h._cLatLng,e)),o.__parent=h,t.__parent=h;var _=h;for(n=e-1;n&gt;a._zoom;n--)_=new L.MarkerCluster(this,n,_),s[n].addObject(_,this._map.project(o.getLatLng(),n));for(a._addChild(_),n=e;n&gt;=0&amp;&amp;r[n].removeObject(o,this._map.project(o.getLatLng(),n));n--);return}r[e].addObject(t,i)}this._topClusterLevel._addChild(t),t.__parent=this._topClusterLevel},_enqueue:function(t){this._queue.push(t),this._queueTimeout||(this._queueTimeout=setTimeout(L.bind(this._processQueue,this),300))},_processQueue:function(){for(var t=0;t&lt;this._queue.length;t++)this._queue[t].call(this);this._queue.length=0,clearTimeout(this._queueTimeout),this._queueTimeout=null},_mergeSplitClusters:function(){this._processQueue(),this._zoom&lt;this._map._zoom&amp;&amp;this._currentShownBounds.intersects(this._getExpandedVisibleBounds())?(this._animationStart(),this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,this._zoom,this._getExpandedVisibleBounds()),this._animationZoomIn(this._zoom,this._map._zoom)):this._zoom&gt;this._map._zoom?(this._animationStart(),this._animationZoomOut(this._zoom,this._map._zoom)):this._moveEnd()},_getExpandedVisibleBounds:function(){if(!this.options.removeOutsideVisibleBounds)return this.getBounds();var t=this._map,e=t.getBounds(),i=e._southWest,n=e._northEast,s=L.Browser.mobile?0:Math.abs(i.lat-n.lat),r=L.Browser.mobile?0:Math.abs(i.lng-n.lng);return new L.LatLngBounds(new L.LatLng(i.lat-s,i.lng-r,!0),new L.LatLng(n.lat+s,n.lng+r,!0))},_animationAddLayerNonAnimated:function(t,e){if(e===t)this._featureGroup.addLayer(t);else if(2===e._childCount){e._addToMap();var i=e.getAllChildMarkers();this._featureGroup.removeLayer(i[0]),this._featureGroup.removeLayer(i[1])}else e._updateIcon()}}),L.MarkerClusterGroup.include(L.DomUtil.TRANSITION?{_animationStart:function(){this._map._mapPane.className+=&quot; leaflet-cluster-anim&quot;,this._inZoomAnimation++},_animationEnd:function(){this._map&amp;&amp;(this._map._mapPane.className=this._map._mapPane.className.replace(&quot; leaflet-cluster-anim&quot;,&quot;&quot;)),this._inZoomAnimation--,this.fire(&quot;animationend&quot;)},_animationZoomIn:function(t,e){var i,n=this._getExpandedVisibleBounds(),s=this._featureGroup;this._topClusterLevel._recursively(n,t,0,function(r){var o,a=r._latlng,h=r._markers;for(n.contains(a)||(a=null),r._isSingleParent()&amp;&amp;t+1===e?(s.removeLayer(r),r._recursivelyAddChildrenToMap(null,e,n)):(r.setOpacity(0),r._recursivelyAddChildrenToMap(a,e,n)),i=h.length-1;i&gt;=0;i--)o=h[i],n.contains(o._latlng)||s.removeLayer(o)}),this._forceLayout(),this._topClusterLevel._recursivelyBecomeVisible(n,e),s.eachLayer(function(t){t instanceof L.MarkerCluster||!t._icon||t.setOpacity(1)}),this._topClusterLevel._recursively(n,t,e,function(t){t._recursivelyRestoreChildPositions(e)}),this._enqueue(function(){this._topClusterLevel._recursively(n,t,0,function(t){s.removeLayer(t),t.setOpacity(1)}),this._animationEnd()})},_animationZoomOut:function(t,e){this._animationZoomOutSingle(this._topClusterLevel,t-1,e),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t,this._getExpandedVisibleBounds())},_animationZoomOutSingle:function(t,e,i){var n=this._getExpandedVisibleBounds();t._recursivelyAnimateChildrenInAndAddSelfToMap(n,e+1,i);var s=this;this._forceLayout(),t._recursivelyBecomeVisible(n,i),this._enqueue(function(){if(1===t._childCount){var r=t._markers[0];r.setLatLng(r.getLatLng()),r.setOpacity&amp;&amp;r.setOpacity(1)}else t._recursively(n,i,0,function(t){t._recursivelyRemoveChildrenFromMap(n,e+1)});s._animationEnd()})},_animationAddLayer:function(t,e){var i=this,n=this._featureGroup;n.addLayer(t),e!==t&amp;&amp;(e._childCount&gt;2?(e._updateIcon(),this._forceLayout(),this._animationStart(),t._setPos(this._map.latLngToLayerPoint(e.getLatLng())),t.setOpacity(0),this._enqueue(function(){n.removeLayer(t),t.setOpacity(1),i._animationEnd()})):(this._forceLayout(),i._animationStart(),i._animationZoomOutSingle(e,this._map.getMaxZoom(),this._map.getZoom())))},_forceLayout:function(){L.Util.falseFn(e.body.offsetWidth)}}:{_animationStart:function(){},_animationZoomIn:function(t,e){this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this.fire(&quot;animationend&quot;)},_animationZoomOut:function(t,e){this._topClusterLevel._recursivelyRemoveChildrenFromMap(this._currentShownBounds,t),this._topClusterLevel._recursivelyAddChildrenToMap(null,e,this._getExpandedVisibleBounds()),this.fire(&quot;animationend&quot;)},_animationAddLayer:function(t,e){this._animationAddLayerNonAnimated(t,e)}}),L.markerClusterGroup=function(t){return new L.MarkerClusterGroup(t)},L.MarkerCluster=L.Marker.extend({initialize:function(t,e,i,n){L.Marker.prototype.initialize.call(this,i?i._cLatLng||i.getLatLng():new L.LatLng(0,0),{icon:this}),this._group=t,this._zoom=e,this._markers=[],this._childClusters=[],this._childCount=0,this._iconNeedsUpdate=!0,this._bounds=new L.LatLngBounds,i&amp;&amp;this._addChild(i),n&amp;&amp;this._addChild(n)},getAllChildMarkers:function(t){t=t||[];for(var e=this._childClusters.length-1;e&gt;=0;e--)this._childClusters[e].getAllChildMarkers(t);for(var i=this._markers.length-1;i&gt;=0;i--)t.push(this._markers[i]);return t},getChildCount:function(){return this._childCount},zoomToBounds:function(){for(var t,e=this._childClusters.slice(),i=this._group._map,n=i.getBoundsZoom(this._bounds),s=this._zoom+1,r=i.getZoom();e.length&gt;0&amp;&amp;n&gt;s;){s++;var o=[];for(t=0;t&lt;e.length;t++)o=o.concat(e[t]._childClusters);e=o}n&gt;s?this._group._map.setView(this._latlng,s):r&gt;=n?this._group._map.setView(this._latlng,r+1):this._group._map.fitBounds(this._bounds)},getBounds:function(){var t=new L.LatLngBounds;return t.extend(this._bounds),t},_updateIcon:function(){this._iconNeedsUpdate=!0,this._icon&amp;&amp;this.setIcon(this)},createIcon:function(){return this._iconNeedsUpdate&amp;&amp;(this._iconObj=this._group.options.iconCreateFunction(this),this._iconNeedsUpdate=!1),this._iconObj.createIcon()},createShadow:function(){return this._iconObj.createShadow()},_addChild:function(t,e){this._iconNeedsUpdate=!0,this._expandBounds(t),t instanceof L.MarkerCluster?(e||(this._childClusters.push(t),t.__parent=this),this._childCount+=t._childCount):(e||this._markers.push(t),this._childCount++),this.__parent&amp;&amp;this.__parent._addChild(t,!0)},_expandBounds:function(t){var e,i=t._wLatLng||t._latlng;t instanceof L.MarkerCluster?(this._bounds.extend(t._bounds),e=t._childCount):(this._bounds.extend(i),e=1),this._cLatLng||(this._cLatLng=t._cLatLng||i);var n=this._childCount+e;this._wLatLng?(this._wLatLng.lat=(i.lat*e+this._wLatLng.lat*this._childCount)/n,this._wLatLng.lng=(i.lng*e+this._wLatLng.lng*this._childCount)/n):this._latlng=this._wLatLng=new L.LatLng(i.lat,i.lng)},_addToMap:function(t){t&amp;&amp;(this._backupLatlng=this._latlng,this.setLatLng(t)),this._group._featureGroup.addLayer(this)},_recursivelyAnimateChildrenIn:function(t,e,i){this._recursively(t,0,i-1,function(t){var i,n,s=t._markers;for(i=s.length-1;i&gt;=0;i--)n=s[i],n._icon&amp;&amp;(n._setPos(e),n.setOpacity(0))},function(t){var i,n,s=t._childClusters;for(i=s.length-1;i&gt;=0;i--)n=s[i],n._icon&amp;&amp;(n._setPos(e),n.setOpacity(0))})},_recursivelyAnimateChildrenInAndAddSelfToMap:function(t,e,i){this._recursively(t,i,0,function(n){n._recursivelyAnimateChildrenIn(t,n._group._map.latLngToLayerPoint(n.getLatLng()).round(),e),n._isSingleParent()&amp;&amp;e-1===i?(n.setOpacity(1),n._recursivelyRemoveChildrenFromMap(t,e)):n.setOpacity(0),n._addToMap()})},_recursivelyBecomeVisible:function(t,e){this._recursively(t,0,e,null,function(t){t.setOpacity(1)})},_recursivelyAddChildrenToMap:function(t,e,i){this._recursively(i,-1,e,function(n){if(e!==n._zoom)for(var s=n._markers.length-1;s&gt;=0;s--){var r=n._markers[s];i.contains(r._latlng)&amp;&amp;(t&amp;&amp;(r._backupLatlng=r.getLatLng(),r.setLatLng(t),r.setOpacity&amp;&amp;r.setOpacity(0)),n._group._featureGroup.addLayer(r))}},function(e){e._addToMap(t)})},_recursivelyRestoreChildPositions:function(t){for(var e=this._markers.length-1;e&gt;=0;e--){var i=this._markers[e];i._backupLatlng&amp;&amp;(i.setLatLng(i._backupLatlng),delete i._backupLatlng)}if(t-1===this._zoom)for(var n=this._childClusters.length-1;n&gt;=0;n--)this._childClusters[n]._restorePosition();else for(var s=this._childClusters.length-1;s&gt;=0;s--)this._childClusters[s]._recursivelyRestoreChildPositions(t)},_restorePosition:function(){this._backupLatlng&amp;&amp;(this.setLatLng(this._backupLatlng),delete this._backupLatlng)},_recursivelyRemoveChildrenFromMap:function(t,e,i){var n,s;this._recursively(t,-1,e-1,function(t){for(s=t._markers.length-1;s&gt;=0;s--)n=t._markers[s],i&amp;&amp;i.contains(n._latlng)||(t._group._featureGroup.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))},function(t){for(s=t._childClusters.length-1;s&gt;=0;s--)n=t._childClusters[s],i&amp;&amp;i.contains(n._latlng)||(t._group._featureGroup.removeLayer(n),n.setOpacity&amp;&amp;n.setOpacity(1))})},_recursively:function(t,e,i,n,s){var r,o,a=this._childClusters,h=this._zoom;if(e&gt;h)for(r=a.length-1;r&gt;=0;r--)o=a[r],t.intersects(o._bounds)&amp;&amp;o._recursively(t,e,i,n,s);else if(n&amp;&amp;n(this),s&amp;&amp;this._zoom===i&amp;&amp;s(this),i&gt;h)for(r=a.length-1;r&gt;=0;r--)o=a[r],t.intersects(o._bounds)&amp;&amp;o._recursively(t,e,i,n,s)},_recalculateBounds:function(){var t,e=this._markers,i=this._childClusters;for(this._bounds=new L.LatLngBounds,delete this._wLatLng,t=e.length-1;t&gt;=0;t--)this._expandBounds(e[t]);for(t=i.length-1;t&gt;=0;t--)this._expandBounds(i[t])},_isSingleParent:function(){return this._childClusters.length&gt;0&amp;&amp;this._childClusters[0]._childCount===this._childCount}}),L.DistanceGrid=function(t){this._cellSize=t,this._sqCellSize=t*t,this._grid={},this._objectPoint={}},L.DistanceGrid.prototype={addObject:function(t,e){var i=this._getCoord(e.x),n=this._getCoord(e.y),s=this._grid,r=s[n]=s[n]||{},o=r[i]=r[i]||[],a=L.Util.stamp(t);this._objectPoint[a]=e,o.push(t)},updateObject:function(t,e){this.removeObject(t),this.addObject(t,e)},removeObject:function(t,e){var i,n,s=this._getCoord(e.x),r=this._getCoord(e.y),o=this._grid,a=o[r]=o[r]||{},h=a[s]=a[s]||[];for(delete this._objectPoint[L.Util.stamp(t)],i=0,n=h.length;n&gt;i;i++)if(h[i]===t)return h.splice(i,1),1===n&amp;&amp;delete a[s],!0},eachObject:function(t,e){var i,n,s,r,o,a,h,_=this._grid;for(i in _){o=_[i];for(n in o)for(a=o[n],s=0,r=a.length;r&gt;s;s++)h=t.call(e,a[s]),h&amp;&amp;(s--,r--)}},getNearObject:function(t){var e,i,n,s,r,o,a,h,_=this._getCoord(t.x),u=this._getCoord(t.y),l=this._objectPoint,d=this._sqCellSize,p=null;for(e=u-1;u+1&gt;=e;e++)if(s=this._grid[e])for(i=_-1;_+1&gt;=i;i++)if(r=s[i])for(n=0,o=r.length;o&gt;n;n++)a=r[n],h=this._sqDist(l[L.Util.stamp(a)],t),d&gt;h&amp;&amp;(d=h,p=a);return p},_getCoord:function(t){return Math.floor(t/this._cellSize)},_sqDist:function(t,e){var i=e.x-t.x,n=e.y-t.y;return i*i+n*n}},function(){L.QuickHull={getDistant:function(t,e){var i=e[1].lat-e[0].lat,n=e[0].lng-e[1].lng;return n*(t.lat-e[0].lat)+i*(t.lng-e[0].lng)},findMostDistantPointFromBaseLine:function(t,e){var i,n,s,r=0,o=null,a=[];for(i=e.length-1;i&gt;=0;i--)n=e[i],s=this.getDistant(n,t),s&gt;0&amp;&amp;(a.push(n),s&gt;r&amp;&amp;(r=s,o=n));return{maxPoint:o,newPoints:a}},buildConvexHull:function(t,e){var i=[],n=this.findMostDistantPointFromBaseLine(t,e);return n.maxPoint?(i=i.concat(this.buildConvexHull([t[0],n.maxPoint],n.newPoints)),i=i.concat(this.buildConvexHull([n.maxPoint,t[1]],n.newPoints))):[t[0]]},getConvexHull:function(t){var e,i=!1,n=!1,s=null,r=null;for(e=t.length-1;e&gt;=0;e--){var o=t[e];(i===!1||o.lat&gt;i)&amp;&amp;(s=o,i=o.lat),(n===!1||o.lat&lt;n)&amp;&amp;(r=o,n=o.lat)}var a=[].concat(this.buildConvexHull([r,s],t),this.buildConvexHull([s,r],t));return a}}}(),L.MarkerCluster.include({getConvexHull:function(){var t,e,i=this.getAllChildMarkers(),n=[];for(e=i.length-1;e&gt;=0;e--)t=i[e].getLatLng(),n.push(t);return L.QuickHull.getConvexHull(n)}}),L.MarkerCluster.include({_2PI:2*Math.PI,_circleFootSeparation:25,_circleStartAngle:Math.PI/6,_spiralFootSeparation:28,_spiralLengthStart:11,_spiralLengthFactor:5,_circleSpiralSwitchover:9,spiderfy:function(){if(this._group._spiderfied!==this&amp;&amp;!this._group._inZoomAnimation){var t,e=this.getAllChildMarkers(),i=this._group,n=i._map,s=n.latLngToLayerPoint(this._latlng);this._group._unspiderfy(),this._group._spiderfied=this,e.length&gt;=this._circleSpiralSwitchover?t=this._generatePointsSpiral(e.length,s):(s.y+=10,t=this._generatePointsCircle(e.length,s)),this._animationSpiderfy(e,t)}},unspiderfy:function(t){this._group._inZoomAnimation||(this._animationUnspiderfy(t),this._group._spiderfied=null)},_generatePointsCircle:function(t,e){var i,n,s=this._group.options.spiderfyDistanceMultiplier*this._circleFootSeparation*(2+t),r=s/this._2PI,o=this._2PI/t,a=[];for(a.length=t,i=t-1;i&gt;=0;i--)n=this._circleStartAngle+i*o,a[i]=new L.Point(e.x+r*Math.cos(n),e.y+r*Math.sin(n))._round();return a},_generatePointsSpiral:function(t,e){var i,n=this._group.options.spiderfyDistanceMultiplier*this._spiralLengthStart,s=this._group.options.spiderfyDistanceMultiplier*this._spiralFootSeparation,r=this._group.options.spiderfyDistanceMultiplier*this._spiralLengthFactor,o=0,a=[];for(a.length=t,i=t-1;i&gt;=0;i--)o+=s/n+5e-4*i,a[i]=new L.Point(e.x+n*Math.cos(o),e.y+n*Math.sin(o))._round(),n+=this._2PI*r/o;return a},_noanimationUnspiderfy:function(){var t,e,i=this._group,n=i._map,s=i._featureGroup,r=this.getAllChildMarkers();for(this.setOpacity(1),e=r.length-1;e&gt;=0;e--)t=r[e],s.removeLayer(t),t._preSpiderfyLatlng&amp;&amp;(t.setLatLng(t._preSpiderfyLatlng),delete t._preSpiderfyLatlng),t.setZIndexOffset&amp;&amp;t.setZIndexOffset(0),t._spiderLeg&amp;&amp;(n.removeLayer(t._spiderLeg),delete t._spiderLeg);i._spiderfied=null}}),L.MarkerCluster.include(L.DomUtil.TRANSITION?{SVG_ANIMATION:function(){return e.createElementNS(&quot;http://www.w3.org/2000/svg&quot;,&quot;animate&quot;).toString().indexOf(&quot;SVGAnimate&quot;)&gt;-1}(),_animationSpiderfy:function(t,i){var n,s,r,o,a=this,h=this._group,_=h._map,u=h._featureGroup,l=_.latLngToLayerPoint(this._latlng);for(n=t.length-1;n&gt;=0;n--)s=t[n],s.setOpacity?(s.setZIndexOffset(1e6),s.setOpacity(0),u.addLayer(s),s._setPos(l)):u.addLayer(s);h._forceLayout(),h._animationStart();var d=L.Path.SVG?0:.3,p=L.Path.SVG_NS;for(n=t.length-1;n&gt;=0;n--)if(o=_.layerPointToLatLng(i[n]),s=t[n],s._preSpiderfyLatlng=s._latlng,s.setLatLng(o),s.setOpacity&amp;&amp;s.setOpacity(1),r=new L.Polyline([a._latlng,o],{weight:1.5,color:&quot;#222&quot;,opacity:d}),_.addLayer(r),s._spiderLeg=r,L.Path.SVG&amp;&amp;this.SVG_ANIMATION){var c=r._path.getTotalLength();r._path.setAttribute(&quot;stroke-dasharray&quot;,c+&quot;,&quot;+c);var f=e.createElementNS(p,&quot;animate&quot;);f.setAttribute(&quot;attributeName&quot;,&quot;stroke-dashoffset&quot;),f.setAttribute(&quot;begin&quot;,&quot;indefinite&quot;),f.setAttribute(&quot;from&quot;,c),f.setAttribute(&quot;to&quot;,0),f.setAttribute(&quot;dur&quot;,.25),r._path.appendChild(f),f.beginElement(),f=e.createElementNS(p,&quot;animate&quot;),f.setAttribute(&quot;attributeName&quot;,&quot;stroke-opacity&quot;),f.setAttribute(&quot;attributeName&quot;,&quot;stroke-opacity&quot;),f.setAttribute(&quot;begin&quot;,&quot;indefinite&quot;),f.setAttribute(&quot;from&quot;,0),f.setAttribute(&quot;to&quot;,.5),f.setAttribute(&quot;dur&quot;,.25),r._path.appendChild(f),f.beginElement()}if(a.setOpacity(.3),L.Path.SVG)for(this._group._forceLayout(),n=t.length-1;n&gt;=0;n--)s=t[n]._spiderLeg,s.options.opacity=.5,s._path.setAttribute(&quot;stroke-opacity&quot;,.5);setTimeout(function(){h._animationEnd(),h.fire(&quot;spiderfied&quot;)},200)},_animationUnspiderfy:function(t){var e,i,n,s=this._group,r=s._map,o=s._featureGroup,a=t?r._latLngToNewLayerPoint(this._latlng,t.zoom,t.center):r.latLngToLayerPoint(this._latlng),h=this.getAllChildMarkers(),_=L.Path.SVG&amp;&amp;this.SVG_ANIMATION;for(s._animationStart(),this.setOpacity(1),i=h.length-1;i&gt;=0;i--)e=h[i],e._preSpiderfyLatlng&amp;&amp;(e.setLatLng(e._preSpiderfyLatlng),delete e._preSpiderfyLatlng,e.setOpacity?(e._setPos(a),e.setOpacity(0)):o.removeLayer(e),_&amp;&amp;(n=e._spiderLeg._path.childNodes[0],n.setAttribute(&quot;to&quot;,n.getAttribute(&quot;from&quot;)),n.setAttribute(&quot;from&quot;,0),n.beginElement(),n=e._spiderLeg._path.childNodes[1],n.setAttribute(&quot;from&quot;,.5),n.setAttribute(&quot;to&quot;,0),n.setAttribute(&quot;stroke-opacity&quot;,0),n.beginElement(),e._spiderLeg._path.setAttribute(&quot;stroke-opacity&quot;,0)));setTimeout(function(){var t=0;for(i=h.length-1;i&gt;=0;i--)e=h[i],e._spiderLeg&amp;&amp;t++;for(i=h.length-1;i&gt;=0;i--)e=h[i],e._spiderLeg&amp;&amp;(e.setOpacity&amp;&amp;(e.setOpacity(1),e.setZIndexOffset(0)),t&gt;1&amp;&amp;o.removeLayer(e),r.removeLayer(e._spiderLeg),delete e._spiderLeg);s._animationEnd()},200)}}:{_animationSpiderfy:function(t,e){var i,n,s,r,o=this._group,a=o._map,h=o._featureGroup;for(i=t.length-1;i&gt;=0;i--)r=a.layerPointToLatLng(e[i]),n=t[i],n._preSpiderfyLatlng=n._latlng,n.setLatLng(r),n.setZIndexOffset&amp;&amp;n.setZIndexOffset(1e6),h.addLayer(n),s=new L.Polyline([this._latlng,r],{weight:1.5,color:&quot;#222&quot;}),a.addLayer(s),n._spiderLeg=s;this.setOpacity(.3),o.fire(&quot;spiderfied&quot;)},_animationUnspiderfy:function(){this._noanimationUnspiderfy()}}),L.MarkerClusterGroup.include({_spiderfied:null,_spiderfierOnAdd:function(){this._map.on(&quot;click&quot;,this._unspiderfyWrapper,this),this._map.options.zoomAnimation&amp;&amp;this._map.on(&quot;zoomstart&quot;,this._unspiderfyZoomStart,this),this._map.on(&quot;zoomend&quot;,this._noanimationUnspiderfy,this),L.Path.SVG&amp;&amp;!L.Browser.touch&amp;&amp;this._map._initPathRoot()},_spiderfierOnRemove:function(){this._map.off(&quot;click&quot;,this._unspiderfyWrapper,this),this._map.off(&quot;zoomstart&quot;,this._unspiderfyZoomStart,this),this._map.off(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this),this._unspiderfy()},_unspiderfyZoomStart:function(){this._map&amp;&amp;this._map.on(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this)},_unspiderfyZoomAnim:function(t){L.DomUtil.hasClass(this._map._mapPane,&quot;leaflet-touching&quot;)||(this._map.off(&quot;zoomanim&quot;,this._unspiderfyZoomAnim,this),this._unspiderfy(t))},_unspiderfyWrapper:function(){this._unspiderfy()},_unspiderfy:function(t){this._spiderfied&amp;&amp;this._spiderfied.unspiderfy(t)},_noanimationUnspiderfy:function(){this._spiderfied&amp;&amp;this._spiderfied._noanimationUnspiderfy()},_unspiderfyLayer:function(t){t._spiderLeg&amp;&amp;(this._featureGroup.removeLayer(t),t.setOpacity(1),t.setZIndexOffset(0),this._map.removeLayer(t._spiderLeg),delete t._spiderLeg)}})}(window,document);</td>
       </tr>
 </table>
 
@@ -827,7 +705,7 @@
       <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2015 <span title="0.08172s from github-fe120-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2015 <span title="0.08385s from github-fe143-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
