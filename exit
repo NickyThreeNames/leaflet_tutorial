@@ -1,0 +1,77 @@
+[33mcommit 3e5edc0ba79631c52286d18d48f1e6c1effc5b7e[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 17:44:23 2015 -0600
+
+    File cleanup
+    
+    downloaded update file versions
+
+[33mcommit 5ad853a1da281b90567704212a0285f1d5fa31fd[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 17:40:27 2015 -0600
+
+    cleanup
+    
+    Syntax and formatting cleanup.
+
+[33mcommit 5ac53b1e676cbe5d2ae41a9208f6d4548439cc99[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 17:35:10 2015 -0600
+
+    readme update
+    
+    Updated readme.
+
+[33mcommit d7a309f2033750a058c9b2457a986c85d42b067b[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 17:31:09 2015 -0600
+
+    marker cluster
+    
+    Added marker clustering to map.
+
+[33mcommit 8cf3580c658ae251c2739ad0c1206dd7b4f7f947[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 17:02:54 2015 -0600
+
+    neighborhoods
+    
+    Added neighborhood layer and choropleth coloring for this layer.
+
+[33mcommit ace16749c0266760010178b72ee40c6593c30c4c[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 16:51:38 2015 -0600
+
+    Fix and popup
+    
+    Fixed issue with rat icon and added popup window.
+
+[33mcommit 2707b18e9f1d3e383b5ae5710ed771d1d0f594ac[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 16:32:28 2015 -0600
+
+    icon added
+    
+    Added custom icon to map.
+
+[33mcommit 58ccb5badacd20469633a7ea7f84e2581556aa66[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 16:22:45 2015 -0600
+
+    geojson added
+    
+    Added geojson file and jquery to the page.
+
+[33mcommit 337706084a627b126cfe52b488fb269495daaf6e[m
+Author: NickyThreeNames <nich.cm@gmail.com>
+Date:   Wed Nov 11 15:59:56 2015 -0600
+
+    webpage outline
+    
+    Created map in html page.
+
+[33mcommit 96eaccf285a15c08b50bb0ed4476eb3f26ad24eb[m
+Author: Nick Conti <nich.cm@gmail.com>
+Date:   Wed Nov 11 15:32:01 2015 -0600
+
+    Initial commit
